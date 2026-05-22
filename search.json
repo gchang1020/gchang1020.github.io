@@ -23,44 +23,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Gary’s Website",
+    "title": "Gary Chang",
     "section": "",
-    "text": "GC\n  \n  \n    \n    Data/GIS Scientist, Researcher, Systems Engineer\n    Department of Geography · University Name\n    \n      ✉ Email\n      ↗ CV\n      GitHub"
+    "text": "GC\n  \n  \n    \n    Data/GIS Scientist, Researcher, Systems Engineer\n    University of Texas at Dallas\n    \n      ✉ Email\n      ↗ CV\n      GitHub"
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
-    "title": "Gary’s Website",
+    "title": "Gary Chang",
     "section": "About",
-    "text": "About\nI am a researcher and educator with expertise in geographic information systems (GIS) and spatial analysis. My work focuses on [your research area — e.g., urban analytics, environmental modeling, spatial data science].\nI hold a Ph.D. in [Field] from [University], where my dissertation examined [brief dissertation topic]. I am passionate about making spatial thinking and data literacy accessible through teaching and open-source tools."
+    "text": "About\nI am a data scientist and systems engineer with a multidisciplinary background spanning software development, data engineering, geospatial analysis, and advanced statistical modeling. I build and integrate data-driven systems across CRM, ERP, and analytics platforms, and develop end-to-end workflows from data acquisition and engineering through machine learning and interpretation.\nMy analytical toolkit includes Bayesian inference (INLA), survival analysis, causal inference, and spatial-temporal modeling, with hands-on experience in R, Python, SQL, ArcGIS Pro, and Google Earth Engine. I bridge technical infrastructure and quantitative analysis — turning raw, heterogeneous data into reliable, decision-ready insights."
   },
   {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Gary’s Website",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nSpatial data analysis and visualization\n[Research interest 2]\n[Research interest 3]\nGIS applications in [domain]"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Gary’s Website",
-    "section": "Education",
-    "text": "Education\nPh.D., [Field] · [University] · [Year]\nDissertation: [Your dissertation title]\nM.S., [Field] · [University] · [Year]\nB.S., [Field] · [University] · [Year]"
-  },
-  {
-    "objectID": "index.html#selected-publications",
-    "href": "index.html#selected-publications",
-    "title": "Gary’s Website",
-    "section": "Selected Publications",
-    "text": "Selected Publications\n\nChang, G. ([Year]). [Title of paper]. Journal Name, vol(issue), pp. [DOI or link]\nChang, G. ([Year]). [Title of paper]. Conference/Journal Name."
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Gary’s Website",
-    "section": "Contact",
-    "text": "Contact\nI am based at [Location / Institution]. Feel free to reach out at your@email.com."
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Gary Chang",
+    "section": "Skills",
+    "text": "Skills\nProgramming & Data · R · Python · SQL · Java · C++\nGeospatial · ArcGIS Pro · Google Earth Engine · Remote Sensing · Spatial Interpolation\nMachine Learning · YOLO · RoboFlow · Predictive Modeling · Data Labeling\nStatistical Methods · Bayesian Inference (INLA) · Survival Analysis · Causal Inference (DID, RDD, PSM) · GLM/GLMM · Time-Series\nDatabases & Systems · MySQL · PostgreSQL · CRM/ERP Integration · Data Pipelines"
   },
   {
     "objectID": "certificates.html",
@@ -103,6 +82,13 @@
     "title": "Research",
     "section": "",
     "text": "My research spans geospatial data science, statistical modeling, and systems integration. Below are my current and completed projects, each with associated papers or manuscripts where applicable."
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "Research Interests",
+    "text": "Research Interests"
   },
   {
     "objectID": "research.html#projects",

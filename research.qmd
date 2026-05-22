@@ -5,6 +5,9 @@ toc: true
 
 My research spans geospatial data science, statistical modeling, and systems integration. Below are my current and completed projects, each with associated papers or manuscripts where applicable.
 
+## Research Interests ##
+
+
 ## Projects
 
 ### Spatial-Temporal Modeling of [Phenomenon]
