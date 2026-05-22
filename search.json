@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gary’s Website",
+    "section": "",
+    "text": "GC\n  \n  \n    \n    GIS Researcher & Educator\n    Department of Geography · University Name\n    \n      ✉ Email\n      ↗ CV\n      GitHub"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Gary’s Website",
+    "section": "About",
+    "text": "About\nI am a researcher and educator with expertise in geographic information systems (GIS) and spatial analysis. My work focuses on [your research area — e.g., urban analytics, environmental modeling, spatial data science].\nI hold a Ph.D. in [Field] from [University], where my dissertation examined [brief dissertation topic]. I am passionate about making spatial thinking and data literacy accessible through teaching and open-source tools."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Gary’s Website",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nSpatial data analysis and visualization\n[Research interest 2]\n[Research interest 3]\nGIS applications in [domain]"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Gary’s Website",
+    "section": "Education",
+    "text": "Education\nPh.D., [Field] · [University] · [Year]\nDissertation: [Your dissertation title]\nM.S., [Field] · [University] · [Year]\nB.S., [Field] · [University] · [Year]"
+  },
+  {
+    "objectID": "index.html#selected-publications",
+    "href": "index.html#selected-publications",
+    "title": "Gary’s Website",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\nChang, G. ([Year]). [Title of paper]. Journal Name, vol(issue), pp. [DOI or link]\nChang, G. ([Year]). [Title of paper]. Conference/Journal Name."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Gary’s Website",
+    "section": "Contact",
+    "text": "Contact\nI am based at [Location / Institution]. Feel free to reach out at your@email.com."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
