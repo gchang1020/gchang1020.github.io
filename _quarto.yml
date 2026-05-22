@@ -1,21 +1,44 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "gchang1020.github.io"
+  title: "Grace Chang"
+  description: "GIS Researcher & Educator"
+  favicon: assets/favicon.ico
+
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+    right:
+      - icon: github
+        href: https://github.com/gchang1020
+        aria-label: GitHub
+
+  # Uncomment pages as you add them:
+  # navbar:
+  #   left:
+  #     - href: index.qmd
+  #       text: Home
+  #     - href: projects.qmd
+  #       text: Projects
+  #     - href: teaching.qmd
+  #       text: Teaching
+  #     - href: cv/cv.pdf
+  #       text: CV
+  #       target: _blank
+
+  page-footer:
+    center: |
+      © 2025 Grace Chang · Built with [Quarto](https://quarto.org)
 
 format:
   html:
     theme:
       - cosmo
-      - brand
+      - brand.scss
     css: styles.css
-    toc: true
-
-
-
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

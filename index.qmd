@@ -1,7 +1,55 @@
 ---
-title: "gchang1020.github.io"
+title: ""
+page-layout: full
+toc: false
 ---
 
-This is a Quarto website.
+```{=html}
+<div class="profile-hero">
+  <div class="profile-photo-wrap">
+    <img src="assets/profile.jpg" alt="Profile photo" class="profile-photo" onerror="this.style.display='none'; document.querySelector('.profile-photo-placeholder').style.display='flex';" />
+    <div class="profile-photo-placeholder">GC</div>
+  </div>
+  <div class="profile-text">
+    <h1 class="profile-name">Grace Chang</h1>
+    <p class="profile-title">GIS Researcher &amp; Educator</p>
+    <p class="profile-affiliation">Department of Geography · University Name</p>
+    <div class="profile-links">
+      <a href="mailto:your@email.com" class="profile-link">✉ Email</a>
+      <a href="cv/cv.pdf" class="profile-link" target="_blank">↗ CV</a>
+      <a href="https://github.com/gchang1020" class="profile-link" target="_blank">GitHub</a>
+    </div>
+  </div>
+</div>
+```
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## About
+
+I am a researcher and educator with expertise in geographic information systems (GIS) and spatial analysis. My work focuses on [your research area — e.g., urban analytics, environmental modeling, spatial data science].
+
+I hold a Ph.D. in [Field] from [University], where my dissertation examined [brief dissertation topic]. I am passionate about making spatial thinking and data literacy accessible through teaching and open-source tools.
+
+## Research Interests
+
+- Spatial data analysis and visualization
+- [Research interest 2]
+- [Research interest 3]
+- GIS applications in [domain]
+
+## Education
+
+**Ph.D., [Field]** · [University] · [Year]  
+Dissertation: *[Your dissertation title]*
+
+**M.S., [Field]** · [University] · [Year]
+
+**B.S., [Field]** · [University] · [Year]
+
+## Selected Publications
+
+- Chang, G. ([Year]). [Title of paper]. *Journal Name*, vol(issue), pp. [DOI or link]
+- Chang, G. ([Year]). [Title of paper]. *Conference/Journal Name*.
+
+## Contact
+
+I am based at [Location / Institution]. Feel free to reach out at [your@email.com](mailto:your@email.com).
