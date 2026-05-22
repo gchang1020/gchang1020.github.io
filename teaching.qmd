@@ -5,15 +5,15 @@ toc: true
 
 ## Teaching Philosophy
 
-Effective teaching in data science and quantitative methods requires more than transferring technical knowledge — it demands building the capacity to think rigorously under uncertainty and to communicate findings clearly to diverse audiences.
+My teaching spans political science, quantitative methods, and data science — a range that reflects my conviction that the most important questions in social life require both theoretical depth and empirical rigor. Whether I am teaching political economy, civil war and conflict resolution, or Python programming for social scientists, I bring the same underlying commitment: that students should leave a course not only knowing more, but thinking more carefully.
 
-My approach is grounded in three principles. First, I teach through real problems. Statistical models, spatial analysis workflows, and data engineering concepts become meaningful when students encounter them in the context of genuine questions — about cities, health outcomes, business systems, or environmental change. Abstract methods stick when they are anchored to something real.
+Political science at its best trains students to interrogate power, institutions, and collective action with disciplined skepticism. In courses like American National Government, State and Local Government, and International Relations, I emphasize that theory is not decoration — it is the lens through which evidence becomes meaningful. I ask students to engage seriously with classical liberal, radical, conservative, and modern liberal traditions not as museum pieces but as living frameworks that structure real political conflicts today. In Civil War and Conflict Resolution, for instance, students do not simply catalog historical cases; they use theoretical tools from political science, history, and international relations to ask why violence begins, how it ends, and what makes peace durable.
 
-Second, I emphasize reasoning over recipes. Rather than training students to apply procedures mechanically, I focus on helping them understand *why* a method works, when it is appropriate, and what its limitations are. This is especially important in areas like causal inference and Bayesian modeling, where disciplined thinking about assumptions matters as much as computation.
+Methodology is where I see the most consequential opportunity in undergraduate and graduate education. Many students arrive convinced that quantitative reasoning belongs to economists or statisticians, not political scientists. I work deliberately to dismantle that barrier. In Research Design I, I teach the logic of scientific inquiry — experimentation, sampling, causal inference, qualitative and quantitative approaches — as a unified practice of rigorous thinking rather than a menu of disconnected techniques. Students learn to design studies, evaluate evidence, and recognize the assumptions embedded in every analytical choice.
 
-Third, I aim to lower the barrier between learning and doing. Whether through guided coding exercises, iterative project feedback, or open-ended exploration, I structure courses so that students build confidence by producing real outputs — not just passing assessments.
+My courses in GIS and Python programming extend this philosophy into applied data science. Geographic Information Systems Fundamentals is not a software training course — it is a course about how spatial structure shapes social, economic, and environmental outcomes, and how to see and measure that structure. Python Programming for Social Science teaches programming as a tool for answering questions that matter, not as an end in itself. In both courses I draw on examples from political science, public policy, and the social sciences broadly, so that technical skills are always anchored to substantive problems.
 
-I hold a Graduate Teaching Certificate from the University of Texas at Dallas, and I bring the same analytical rigor to course design that I apply to my research.
+Across all of my courses I hold two things constant. First, I take students seriously as thinkers. I assign primary texts, expect reasoned argument, and push back on unsupported claims — in seminar discussion and in written work alike. Second, I believe that civic engagement is part of what a political science education is for. Understanding how legislatures work, how conflicts escalate, how data can mislead or illuminate — these are not purely academic concerns. They are capacities that matter for how people participate in democratic life.
 
 ---
 
@@ -21,11 +21,19 @@ I hold a Graduate Teaching Certificate from the University of Texas at Dallas, a
 
 ### University of Texas at Dallas
 
-| Course | Title | Level | Semester |
-|--------|-------|-------|----------|
-| [COURSE 1000] | [Course Title] | Undergraduate | [Fall 20XX] |
-| [COURSE 2000] | [Course Title] | Undergraduate | [Spring 20XX] |
-| [COURSE 3000] | [Course Title] | Graduate | [Fall 20XX] |
-| [COURSE 4000] | [Course Title] | Graduate | [Spring 20XX] |
+| Course | Title | Level |
+|--------|-------|-------|
+| | Political Economy | |
+| | American National Government | |
+| | State and Local Government | |
+| | Research Design I | |
+| | Geographic Information Systems Fundamentals | |
+| | Python Programming for Social Science | |
+| | Civil War and Conflict Resolution | |
+| | International Relations | |
+| | Financial Institutions and Simulation | |
+| | Real Estate Finance & Analysis | |
+| | General Corporate Skills | |
 
-*Replace the bracketed entries with your actual course numbers, titles, and semesters.*
+
+*Add course numbers and semesters as needed.*
