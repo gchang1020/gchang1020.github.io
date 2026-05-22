@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Effective teaching in data science and quantitative methods requires more than transferring technical knowledge — it demands building the capacity to think rigorously under uncertainty and to communicate findings clearly to diverse audiences.\nMy approach is grounded in three principles. First, I teach through real problems. Statistical models, spatial analysis workflows, and data engineering concepts become meaningful when students encounter them in the context of genuine questions — about cities, health outcomes, business systems, or environmental change. Abstract methods stick when they are anchored to something real.\nSecond, I emphasize reasoning over recipes. Rather than training students to apply procedures mechanically, I focus on helping them understand why a method works, when it is appropriate, and what its limitations are. This is especially important in areas like causal inference and Bayesian modeling, where disciplined thinking about assumptions matters as much as computation.\nThird, I aim to lower the barrier between learning and doing. Whether through guided coding exercises, iterative project feedback, or open-ended exploration, I structure courses so that students build confidence by producing real outputs — not just passing assessments.\nI hold a Graduate Teaching Certificate from the University of Texas at Dallas, and I bring the same analytical rigor to course design that I apply to my research."
+  },
+  {
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Teaching",
+    "section": "",
+    "text": "Effective teaching in data science and quantitative methods requires more than transferring technical knowledge — it demands building the capacity to think rigorously under uncertainty and to communicate findings clearly to diverse audiences.\nMy approach is grounded in three principles. First, I teach through real problems. Statistical models, spatial analysis workflows, and data engineering concepts become meaningful when students encounter them in the context of genuine questions — about cities, health outcomes, business systems, or environmental change. Abstract methods stick when they are anchored to something real.\nSecond, I emphasize reasoning over recipes. Rather than training students to apply procedures mechanically, I focus on helping them understand why a method works, when it is appropriate, and what its limitations are. This is especially important in areas like causal inference and Bayesian modeling, where disciplined thinking about assumptions matters as much as computation.\nThird, I aim to lower the barrier between learning and doing. Whether through guided coding exercises, iterative project feedback, or open-ended exploration, I structure courses so that students build confidence by producing real outputs — not just passing assessments.\nI hold a Graduate Teaching Certificate from the University of Texas at Dallas, and I bring the same analytical rigor to course design that I apply to my research."
+  },
+  {
+    "objectID": "teaching.html#courses-taught",
+    "href": "teaching.html#courses-taught",
+    "title": "Teaching",
+    "section": "Courses Taught",
+    "text": "Courses Taught\n\nUniversity of Texas at Dallas\n\n\n\nCourse\nTitle\nLevel\nSemester\n\n\n\n\n[COURSE 1000]\n[Course Title]\nUndergraduate\n[Fall 20XX]\n\n\n[COURSE 2000]\n[Course Title]\nUndergraduate\n[Spring 20XX]\n\n\n[COURSE 3000]\n[Course Title]\nGraduate\n[Fall 20XX]\n\n\n[COURSE 4000]\n[Course Title]\nGraduate\n[Spring 20XX]\n\n\n\nReplace the bracketed entries with your actual course numbers, titles, and semesters."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Gary’s Website",
@@ -42,10 +63,59 @@
     "text": "Contact\nI am based at [Location / Institution]. Feel free to reach out at your@email.com."
   },
   {
+    "objectID": "certificates.html",
+    "href": "certificates.html",
+    "title": "Certificates",
+    "section": "",
+    "text": "Graduate Teaching Certificate\nUniversity of Texas at Dallas\nGIS Certificate\nUniversity of Texas at Dallas"
+  },
+  {
+    "objectID": "certificates.html#academic-credentials",
+    "href": "certificates.html#academic-credentials",
+    "title": "Certificates",
+    "section": "",
+    "text": "Graduate Teaching Certificate\nUniversity of Texas at Dallas\nGIS Certificate\nUniversity of Texas at Dallas"
+  },
+  {
+    "objectID": "certificates.html#esri-arcgis-training",
+    "href": "certificates.html#esri-arcgis-training",
+    "title": "Certificates",
+    "section": "ESRI / ArcGIS Training",
+    "text": "ESRI / ArcGIS Training\n\nIntroduction to GIS\nSpatial Analysis\n[ESRI course name]\n[ESRI course name]\n[ESRI course name]\n[ESRI course name]\n[ESRI course name]\n[ESRI course name]\n[ESRI course name]\n[ESRI course name]\n\nReplace the bracketed entries above with your actual ESRI course names."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "My full CV is available as a PDF below.\n\n↗ Download / View CV (PDF)"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research spans geospatial data science, statistical modeling, and systems integration. Below are my current and completed projects, each with associated papers or manuscripts where applicable."
+  },
+  {
+    "objectID": "research.html#projects",
+    "href": "research.html#projects",
+    "title": "Research",
+    "section": "Projects",
+    "text": "Projects\n\nSpatial-Temporal Modeling of [Phenomenon]\n[2022 – Present]\nA brief 2–3 sentence description of what this project investigates, the methods used, and the broader significance. Replace this with your own summary.\nMethods: Bayesian inference (INLA) · Spatial interpolation · R · ArcGIS Pro\nPapers & Manuscripts\n\nChang, G. (2024). [Paper title]. Journal of [Name], vol(issue). DOI\nChang, G. (2023). [Manuscript title]. Working paper.\n\n\n\n\nMachine Learning for [Application Domain]\n[2021 – 2023]\nBrief description of the project — what problem it addresses, what data was used, and what the contribution is.\nMethods: YOLO · RoboFlow · Python · Remote sensing\nPapers & Manuscripts\n\nChang, G. (2023). [Paper title]. Proceedings of [Conference]. DOI\n\n\n\n\nCRM / ERP Data Integration for [Context]\n[2020 – 2022]\nBrief description of the system built, the integration challenge it addressed, and the outcome.\nMethods: MySQL · PostgreSQL · Python · ETL pipeline design\nPapers & Manuscripts\n\nChang, G. (2022). [Paper title]. [Journal or Conference]. DOI\n\n\n\n\n[Project Title]\n[Year – Year]\nBrief description.\nMethods: [tools]\nPapers & Manuscripts\n\nChang, G. ([Year]). [Paper title]. [Venue]. DOI\n\n\n\n\n[Project Title]\n[Year – Year]\nBrief description.\nMethods: [tools]\n\n\n\n[Project Title]\n[Year – Year]\nBrief description.\nMethods: [tools]\nPapers & Manuscripts\n\nChang, G. ([Year]). [Paper title]. [Venue]. DOI"
+  },
+  {
+    "objectID": "research.html#standalone-publications",
+    "href": "research.html#standalone-publications",
+    "title": "Research",
+    "section": "Standalone Publications",
+    "text": "Standalone Publications\nPapers not tied to a specific project above.\n\nChang, G. ([Year]). [Paper title]. [Journal Name], vol(issue), pp. DOI\nChang, G. ([Year]). [Paper title]. [Journal Name]. DOI"
   }
 ]

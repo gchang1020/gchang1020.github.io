@@ -4,34 +4,28 @@ project:
 
 website:
   title: "Gary Chang"
-  description: "Data/GIS Scientist, Software Engineer, Researcher"
-  favicon: assets/favicon.ico
-
+  description: "Data/GIS Scientist, Researcher, Systems Engineer"
+  
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: certificates.qmd
+        text: Certificates
+      - href: cv.qmd
+        text: CV
     right:
       - icon: github
         href: https://github.com/gchang1020
         aria-label: GitHub
 
-  # Uncomment pages as you add them:
-  # navbar:
-  #   left:
-  #     - href: index.qmd
-  #       text: Home
-  #     - href: projects.qmd
-  #       text: Projects
-  #     - href: teaching.qmd
-  #       text: Teaching
-  #     - href: cv/cv.pdf
-  #       text: CV
-  #       target: _blank
-
   page-footer:
     center: |
-      © 2025 Gary Chang · Built with [Quarto](https://quarto.org)
+      © 2025 Gary Chang
 
 format:
   html:

@@ -1,0 +1,31 @@
+---
+title: "Teaching"
+toc: true
+---
+
+## Teaching Philosophy
+
+Effective teaching in data science and quantitative methods requires more than transferring technical knowledge — it demands building the capacity to think rigorously under uncertainty and to communicate findings clearly to diverse audiences.
+
+My approach is grounded in three principles. First, I teach through real problems. Statistical models, spatial analysis workflows, and data engineering concepts become meaningful when students encounter them in the context of genuine questions — about cities, health outcomes, business systems, or environmental change. Abstract methods stick when they are anchored to something real.
+
+Second, I emphasize reasoning over recipes. Rather than training students to apply procedures mechanically, I focus on helping them understand *why* a method works, when it is appropriate, and what its limitations are. This is especially important in areas like causal inference and Bayesian modeling, where disciplined thinking about assumptions matters as much as computation.
+
+Third, I aim to lower the barrier between learning and doing. Whether through guided coding exercises, iterative project feedback, or open-ended exploration, I structure courses so that students build confidence by producing real outputs — not just passing assessments.
+
+I hold a Graduate Teaching Certificate from the University of Texas at Dallas, and I bring the same analytical rigor to course design that I apply to my research.
+
+---
+
+## Courses Taught
+
+### University of Texas at Dallas
+
+| Course | Title | Level | Semester |
+|--------|-------|-------|----------|
+| [COURSE 1000] | [Course Title] | Undergraduate | [Fall 20XX] |
+| [COURSE 2000] | [Course Title] | Undergraduate | [Spring 20XX] |
+| [COURSE 3000] | [Course Title] | Graduate | [Fall 20XX] |
+| [COURSE 4000] | [Course Title] | Graduate | [Spring 20XX] |
+
+*Replace the bracketed entries with your actual course numbers, titles, and semesters.*

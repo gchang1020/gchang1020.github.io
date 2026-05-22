@@ -1,0 +1,96 @@
+---
+title: "Research"
+toc: true
+---
+
+My research spans geospatial data science, statistical modeling, and systems integration. Below are my current and completed projects, each with associated papers or manuscripts where applicable.
+
+## Projects
+
+### Spatial-Temporal Modeling of [Phenomenon]
+
+*[2022 – Present]*
+
+A brief 2–3 sentence description of what this project investigates, the methods used, and the broader significance. Replace this with your own summary.
+
+**Methods:** Bayesian inference (INLA) · Spatial interpolation · R · ArcGIS Pro
+
+**Papers & Manuscripts**
+
+- Chang, G. (2024). *[Paper title]*. Journal of [Name], vol(issue). [DOI](#)
+- Chang, G. (2023). *[Manuscript title]*. Working paper.
+
+---
+
+### Machine Learning for [Application Domain]
+
+*[2021 – 2023]*
+
+Brief description of the project — what problem it addresses, what data was used, and what the contribution is.
+
+**Methods:** YOLO · RoboFlow · Python · Remote sensing
+
+**Papers & Manuscripts**
+
+- Chang, G. (2023). *[Paper title]*. Proceedings of [Conference]. [DOI](#)
+
+---
+
+### CRM / ERP Data Integration for [Context]
+
+*[2020 – 2022]*
+
+Brief description of the system built, the integration challenge it addressed, and the outcome.
+
+**Methods:** MySQL · PostgreSQL · Python · ETL pipeline design
+
+**Papers & Manuscripts**
+
+- Chang, G. (2022). *[Paper title]*. [Journal or Conference]. [DOI](#)
+
+---
+
+### [Project Title]
+
+*[Year – Year]*
+
+Brief description.
+
+**Methods:** [tools]
+
+**Papers & Manuscripts**
+
+- Chang, G. ([Year]). *[Paper title]*. [Venue]. [DOI](#)
+
+---
+
+### [Project Title]
+
+*[Year – Year]*
+
+Brief description.
+
+**Methods:** [tools]
+
+---
+
+### [Project Title]
+
+*[Year – Year]*
+
+Brief description.
+
+**Methods:** [tools]
+
+**Papers & Manuscripts**
+
+- Chang, G. ([Year]). *[Paper title]*. [Venue]. [DOI](#)
+
+---
+
+## Standalone Publications
+
+Papers not tied to a specific project above.
+
+- Chang, G. ([Year]). *[Paper title]*. *[Journal Name]*, vol(issue), pp. [DOI](#)
+- Chang, G. ([Year]). *[Paper title]*. *[Journal Name]*. [DOI](#)

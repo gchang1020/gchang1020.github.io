@@ -1,0 +1,27 @@
+---
+title: "Certificates"
+toc: false
+---
+
+## Academic Credentials
+
+**Graduate Teaching Certificate**  
+University of Texas at Dallas
+
+**GIS Certificate**  
+University of Texas at Dallas
+
+## ESRI / ArcGIS Training
+
+- Introduction to GIS
+- Spatial Analysis
+- [ESRI course name]
+- [ESRI course name]
+- [ESRI course name]
+- [ESRI course name]
+- [ESRI course name]
+- [ESRI course name]
+- [ESRI course name]
+- [ESRI course name]
+
+*Replace the bracketed entries above with your actual ESRI course names.*
