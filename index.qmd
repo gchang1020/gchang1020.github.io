@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Gary's Website"
 page-layout: full
 toc: false
 ---
