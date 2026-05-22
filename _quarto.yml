@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "Grace Chang"
-  description: "GIS Researcher & Educator"
+  title: "Gary Chang"
+  description: "Data/GIS Scientist, Software Engineer, Researcher"
   favicon: assets/favicon.ico
 
   navbar:
