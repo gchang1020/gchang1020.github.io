@@ -45,7 +45,7 @@ M.B.A.
 
 ## Skills
 
-- Programming & Data: Python · R · PHP · Java · C++
+- Programming & Data: Python · R · Stata · PHP · Java · C++/C#/C
 
 - Machine Learning: Agentic AI · Deep Learning · LLMs · YOLO/RoboFlow · RF/SVM/KNN, etc
 

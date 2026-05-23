@@ -1,8 +1,8 @@
 @echo off
 
-:: insert '<br>' in certificates.html
+:: insert '<br>' in credentials.html
 echo.Insert ^<BR^>...
-REM set HTML=d:\workspace\gchang1020.github.io\certificates.html
+REM set HTML=d:\workspace\gchang1020.github.io\credentials.html
 REM sed -e "s#...#...<br>#g" "%HTML%" > "%HTML%.tmp"
 REM move /Y "%HTML%.tmp" "%HTML%"
 
