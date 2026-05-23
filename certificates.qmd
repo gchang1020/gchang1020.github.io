@@ -3,15 +3,20 @@ title: "Certificates"
 toc: false
 ---
 
-## Academic Credentials
+## Awards & Certifications
 
-- **Graduate Teaching Certificate**
-	*University of Texas at Dallas*
+- **Fred Hill Endowed Scholarship**<br>
+	*University of Texas at Dallas · 2025*
 
-- **Graduate Certificate Geospatial Information Sciences**
-	*University of Texas at Dallas*
+- **Graduate Certificate Geospatial Information Sciences**<br>
+	*University of Texas at Dallas · 2025*
 
-## ESRI / ArcGIS Training
+- **Graduate Teaching Certificate**<br>
+	*University of Texas at Dallas · 2024**
+
+## Awards & Certifications
+
+## ESRI / ArcGIS Training Certificates
 
 - Deep Learning Using ArcGIS Pro
 - Integrating R Scripts into ArcGIS Geoprocessing Tools

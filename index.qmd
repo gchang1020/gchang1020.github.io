@@ -32,15 +32,15 @@ I bridge technical infrastructure, quantitative modeling, and AI automation, con
 
 ## Educations ##
 
-- University of Texas at Dallas: 
-Ph.D., Political Science
-M.S., Geospatial Information Science
-M.S., Social Data Analytics and Research
+- University of Texas at Dallas:<br> 
+Ph.D., Political Science<br>
+M.S., Geospatial Information Science<br>
+M.S., Social Data Analytics and Research<br>
 
-- Ohio State University: 
-M.S., Computer Engineering
+- Ohio State University:<br>
+M.S., Computer Engineering<br>
 
-- San Francisco State University: 
+- San Francisco State University:<br>
 M.B.A.
 
 ## Skills
