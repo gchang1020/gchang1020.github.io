@@ -30,16 +30,29 @@ My work combines Bayesian inference (INLA), causal inference, survival analysis,
 
 I bridge technical infrastructure, quantitative modeling, and AI automation, connecting raw data, analytical reasoning, and intelligent workflows into scalable research and operational solutions.
 
+## Educations ##
+
+- University of Texas at Dallas: 
+Ph.D., Political Science
+M.S., Geospatial Information Science
+M.S., Social Data Analytics and Research
+
+- Ohio State University: 
+M.S., Computer Engineering
+
+- San Francisco State University: 
+M.B.A.
+
 ## Skills
 
-- Programming & Data: · Python · R · PHP · Java · C++
+- Programming & Data: Python · R · PHP · Java · C++
 
-- Machine Learning: · Agentic AI · Deep Learning · LLMs · YOLO/RoboFlow · RF/SVM/KNN, etc
+- Machine Learning: Agentic AI · Deep Learning · LLMs · YOLO/RoboFlow · RF/SVM/KNN, etc
 
-- Geospatial: · ArcGIS Pro · Classification/Detection · Remote Sensing · Suitability Analysis
+- Geospatial: ArcGIS Pro · Classification/Detection · Remote Sensing · Suitability Analysis
 
-- Statistical Methods: · Bayesian/INLA · Survival Analysis · Causal Inference (DID, RDD, PSM, 2SLS) · OLS/GLM/GLMM · PCA/FA/Ridge/Lasso
+- Statistical Methods: Bayesian/INLA · Survival Analysis · Causal Inference (DID, RDD, PSM, 2SLS) · OLS/GLM/GLMM · PCA/FA/Ridge/Lasso
 
-- Databases & Systems: · MySQL · PostgreSQL · Data Modeling · CRM/SFA/ERP · System Integration
+- Databases & Systems: MySQL · PostgreSQL · MongoDB · Data Modeling · CRM/SFA/ERP · System Integration
 
-- Analytics: · Data Engineering · Tableau · Power BI
+- Analytics: Data Engineering · Tableau · Power BI
