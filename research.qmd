@@ -37,9 +37,10 @@ My research spans geospatial data science, statistical modeling, and systems int
 
 ---
 
-### Projects, Manuscripts, and Papers ###
+### Projects and Papers ###
 
-**Mitigating Flight Sequence Risk through Spatial-Temporal Modeling and Optimization**
+<details>
+<summary><strong>Mitigating Flight Sequence Risk through Spatial-Temporal Modeling and Optimization</strong></summary>
 *Top-7 Finalist Research Paper — American Airlines / UTD Challenge · 2026*
 
 Developed an end-to-end predictive and optimization framework to identify and minimize airline misconnection risk within hub-and-spoke networks using American Airlines operations at Dallas/Fort Worth (DFW). Constructed a large-scale spatial-temporal dataset of over 7 million inbound–outbound flight connection pairs from Bureau of Transportation Statistics (BTS) records (2010–2019), enriched with operational, scheduling, weather, and network-congestion variables.
@@ -51,10 +52,12 @@ Integrated machine learning risk scores into a combinatorial optimization pipeli
 **Methods:** Logistic Regression (GLM) · Bayesian Hierarchical (Spatial-Temporal ) Modeling with INLA · XGBoost Gradient Boosting ·  Feature Engineering · Optimization via Google OR-Tools Integer Programming · Greedy Heuristics · Predictive Analytics · Network Analysis
 
 **Data:** U.S. Bureau of Transportation Statistics (BTS) airline operational data (2010–2019), including arrival/departure records, weather delays, late-aircraft indicators, schedule gaps, and airport network features for American Airlines hub operations at Dallas/Fort Worth International Airport (DFW).
+</details>
 
 ---
 
-**Geography of Power: Spatial Pathways to the CCP Central Committee**
+<details>
+<summary><strong>Geography of Power: Spatial Pathways to the CCP Central Committee</strong></summary>
 *Dissertation Paper · 2026*
 
 Why do some places consistently produce more political elites than others? This paper examines the geographic origins of CCP Central Committee members across the 16th through 20th Party Congresses (2002–2022), using county-level administrative data for over 2,800 units across China. Combining generalized linear models with Bayesian spatiotemporal models estimated via Integrated Nested Laplace Approximation (INLA), the study tests whether elite production reflects local spatial spillovers, structural accessibility, or historically embedded institutional advantage.
@@ -66,10 +69,12 @@ The most striking finding is temporal: an autoregressive spatiotemporal specific
 **Methods:** GLM (Gaussian log-log) · Bayesian INLA · CAR/BYM2 spatial models · AR1 spatiotemporal specification · Web scraping + LLM-assisted data preprocessing · ArcGIS Pro (historical railway digitization) · Google Earth Engine
 
 **Data:** CCP Central Committee biographies (16th–20th Congresses) · County-level administrative boundaries (ESRI, GADM, MCA) · 1960s railway network (manually digitized) · Digital Elevation Model (OpenTopography) · County population (ESRI 2021)
+</details>
 
 ---
 
-**Who Survives? Elite Retention and the Mechanisms of Durability in the CCP Central Committee**
+<details>
+<summary><strong>Who Survives? Elite Retention and the Mechanisms of Durability in the CCP Central Committee</strong></summary>
 *Dissertation Paper · 2026*
 
 While most research on Chinese elite politics asks who enters or rises within the CCP, this paper asks a distinct question: once officials reach the Central Committee, who stays? Drawing on a comprehensive panel of individual career histories across the 16th through 20th Party Congresses, the study examines the institutional, relational, and demographic mechanisms that determine whether a Central Committee member survives into the next congressional session.
@@ -81,10 +86,12 @@ Three estimators are combined for robustness: logistic regression models estimat
 **Methods:** Logistic regression (GLM) · Cox proportional hazards (frailty + stratified baseline) · Mixed-effects logistic models (GLMM) · LLM-assisted biographical data preprocessing · Relational embeddedness index construction
 
 **Data:** CCP Central Committee biographies (16th–20th Congresses) · Individual career histories, factional affiliations, educational credentials, network ties
+</details>
 
 ---
 
-**Who Advances? Elite Selection and the Transformation of CCP Promotion Logic**
+<details>
+<summary><strong>Who Advances? Elite Selection and the Transformation of CCP Promotion Logic</strong></summary>
 *Dissertation Paper · 2026*
 
 This paper investigates what determines promotion from the Central Committee to the Politburo, with particular attention to whether the criteria governing that transition changed after the 18th Party Congress. The central argument is that institutionalized factional balance, which structured elite advancement during the Hu Jintao era, has been progressively displaced by leader-centered selection under Xi Jinping, with Communist Youth League (CYL) network affiliation transforming from an asset into a liability.
@@ -94,10 +101,12 @@ Using a panel of 281 eligible elite observations across the 16th through 20th Co
 **Methods:** Logistic regression (GLM) · Mixed-effects logistic regression (GLMM) · Network visualization · Congress fixed effects · LLM-assisted biographical data preprocessing
 
 **Data:** CCP Central Committee and Politburo membership (16th–20th Congresses) · Individual career histories, CYL affiliation, educational credentials
+</details>
 
 ---
 
-**Bayesian Spatiotemporal Modeling of Renal Disease Mortality Across Texas Counties, 2010–2019**
+<details>
+<summary><strong>Bayesian Spatiotemporal Modeling of Renal Disease Mortality Across Texas Counties, 2010–2019</strong></summary>
 *Master's Thesis Paper · 2025*
 
 Where in Texas do people die of kidney disease at elevated rates, and why do those places persist as high-risk even after accounting for income, education, race, and access to care? This paper examines county-level chronic kidney disease mortality across all 254 Texas counties over a ten-year panel, using a suite of eight competing Bayesian hierarchical models to evaluate how different spatial and temporal specifications shape inference about mortality disparities. The central methodological question, which combination of spatial prior and temporal structure best represents underlying patterns, drives a systematic comparison that has not previously been applied to county-level ESRD mortality in Texas.
@@ -111,30 +120,36 @@ The most important methodological contribution is demonstrating that model speci
 **Methods:** Bayesian hierarchical modeling via INLA · Besagproper2 / BYM2 / IID spatial priors · RW1 / AR1 temporal specifications · DIC model comparison · Global Moran's I residual diagnostics · Proportion-based R² · McFadden pseudo-R² · Poisson log-rate regression with population offset · VIF multicollinearity pruning · ArcGIS (minimum distance computation) · R-INLA
 
 **Data:** USRDS county-level renal mortality counts (2010–2019) · U.S. Census population denominators · NHGIS 5-Year ACS socioeconomic covariates · U.S. Census decennial data (2010, 2020) · Dialysis facility accessibility scores (Kim et al., 2024, two-stage floating catchment method) · Texas county shapefile (CNTY_FIPS)
+</details>
 
 ---
 
-**The Price of Being Right: Why Moral Superiority Can't Win Global Power**
+<details>
+<summary><strong>The Price of Being Right: Why Moral Superiority Can't Win Global Power</strong></summary>
 *Working Paper, 2025*
 
 Liberal democracies have long mistaken moral restraint for strategic strength. This paper argues that forty years of engagement policy empowered authoritarian competitors by granting them trade access, capital, and technology while expecting political liberalization in return, a miscalculation that produced strategic dependency rather than convergence. Drawing on realist IR theory and comparative politics, the paper identifies a fundamental asymmetry: democracies are norm-bound and procedurally constrained while authoritarian rivals are result-oriented and unconstrained. The paper calls for democracies to rediscover strategic realism, reclaiming industrial capacity, forging alliances of production, and developing bounded mechanisms of collective mobilization, without abandoning the liberal principles that define them.
 
 **Keywords:** strategic asymmetry · liberal order · authoritarian competition · democratic resilience · strategic realism
 **DOI:** [10.2139/ssrn.5667512](http://dx.doi.org/10.2139/ssrn.5667512)
+</details>
 
 ---
 
-**Autocratic Survival Beyond Institutions: History, Culture, and Propaganda**
+<details>
+<summary><strong>Autocratic Survival Beyond Institutions: History, Culture, and Propaganda</strong></summary>
 *Working Paper, 2025*
 
 Why do some authoritarian regimes endure for decades while others collapse? This paper critically engages Gandhi and Przeworski's influential institutionalist account, which holds that legislatures and parties stabilize dictatorships by structuring elite bargains, and argues that formal institutions cannot explain durability on their own. Drawing on case studies of China, the Soviet Union, and North Korea alongside scholarship by Perry, Fitzpatrick, and Wedeen, the paper shows that authoritarian resilience depends on three additional pillars: revolutionary historical narratives that generate legitimacy, cultural traditions of hierarchy and obedience (particularly Confucian filial piety in the Chinese case), and propaganda systems that function not as mere messaging but as institutionalized discipline saturating everyday life. A synthetic framework integrating all four dimensions is proposed.
 
 **Keywords:** authoritarianism · autocratic survival · institutions · propaganda · Confucianism · China · USSR · North Korea
 **DOI:** [10.2139/ssrn.5523118](http://dx.doi.org/10.2139/ssrn.5523118)
+</details>
 
 ---
 
-**Detecting Objects in Drone Photos with YOLO, Roboflow, and Label-Studio**
+<details>
+<summary><strong>Detecting Objects in Drone Photos with YOLO, Roboflow, and Label-Studio</strong></summary>
 *Term Research Paper · 2025*
 
 How can a practitioner systematically manage the messy, multi-step workflow of a drone-based object detection project without losing track of files, formats, and experimental parameters across platforms? This project develops PyYolo, a Python CLI tool designed to integrate labeling platforms (Roboflow, Label-Studio), model training, and inference into a single, reproducible pipeline, then applies it to detecting pre-fabricated tube structures at a construction site from aerial drone imagery.
@@ -148,10 +163,12 @@ The project reframes drone-based object detection as a data management problem a
 **Methods:** YOLOv8 (Nano / Small / Medium) · Python CLI (PyYolo) · Label-Studio (YOLO + COCO export) · Roboflow (YOLO export) · Format conversion pipeline · F1 / Precision / Recall curve analysis
 
 **Data:** OpenDroneMap Caliterra aerial drone imagery · Label-Studio annotations (bounding box, tube class) · YOLOv8 training/validation splits · Inference results across confidence thresholds (0.01 – 0.25)
+</details>
 
 ---
 
-**Damage Assessment of Wenchang Space Center after Typhoon Yagi**
+<details>
+<summary><strong>Damage Assessment of Wenchang Space Center after Typhoon Yagi</strong></summary>
 *Term Research Project · 2024*
 
 How much did Typhoon Yagi damage China's Wenchang Space Launch Site? This project uses pre- and post-typhoon satellite imagery to detect and quantify vegetation loss at the facility following Yagi's landfall on Hainan Island around August 30, 2024, one of the strongest typhoons to hit the island in recent memory, with peak winds of 145 mph and a death toll of 46.
@@ -165,10 +182,12 @@ The project demonstrates that open-access satellite data combined with Python-ba
 **Methods:** Sentinel-2 L2A band compositing · NDVI & NDHI spectral indices · Histogram equalization · CLAHE dehazing (LAB color space) · Image denoising · PCA (pseudo-band decomposition) · Raster change detection with threshold classification
 
 **Data:** Sentinel-2 L2A (Copernicus / Google Earth Engine) · Study area: Wenchang Space Launch Site, Hainan, China (110.94°E–110.96°E, 19.61°N–19.62°N)
+</details>
 
 ---
 
-**Finding Preferable Locations to Build Hybrid Renewable Energy Systems in Tanzania**
+<details>
+<summary><strong>Finding Preferable Locations to Build Hybrid Renewable Energy Systems in Tanzania</strong></summary>
 *Term Research Project · 2023*
 
 Where in Tanzania should hybrid solar-wind energy plants be built? This project applies GIS-based Suitability Modeling to identify viable sites for hybrid renewable energy systems in Tanzania, a country where over 85% of the population still relies on traditional fuels and rural electrification remains below 17%. Because solar and wind resources are complementary by nature (solar peaks during the day, wind at night), hybrid systems offer more stable output than either source alone and lower total investment costs, making them especially well-suited to Tanzania's energy access challenges.
@@ -180,4 +199,5 @@ Two output scenarios were produced: one identifying 25 candidate sites and one s
 **Methods:** Weighted Suitability Modeling · ArcGIS Pro Suitability Modeler · Multi-Criteria Decision Making (MCDM) · Raster transformation (Gaussian, Large, Small, Near, SymmetricLinear functions) · Manual shoreline digitization · Coordinate reprojection (GCS WGS 1984 → WGS 1984 Web Mercator)
 
 **Data:** Global Solar Atlas · Global Wind Atlas · DIVA-GIS (elevation, land cover, population, roads, inland water) · WorldPop 2020 · Protected Planet (WDPA) · ArcGIS Living Atlas · OurAirports · RCMRD Africa GeoPortal (forest and game reserves) · NGDC/NOAA coastlines
+</details>
 
