@@ -8,7 +8,7 @@ toc: false
 <div class="profile-hero">
   <div class="profile-photo-wrap">
     <img src="Avatar.png" alt="Profile photo" class="profile-photo" onerror="this.style.display='none'; document.querySelector('.profile-photo-placeholder').style.display='flex';" />
-    <div class="profile-photo-placeholder">GC</div>
+    <!-- <div class="profile-photo-placeholder">GC</div> -->
   </div>
   <div class="profile-text">
     <h1 class="profile-name">Gary Chang</h1>
