@@ -8,4 +8,11 @@ move /Y "%HTML%.tmp" "%HTML%"
 :: copy cv.pdf
 copy /Y "D:\Gary\DmGc\Jobs\res-utd-Industry.pdf" "d:\workspace\gchang1020.github.io\cv.pdf"
 
-echo Done
+echo.Done!
+
+echo.
+echo.You should run:
+echo.- git add.
+echo.- git commit -m "message"
+echo.- ssh git@github.com (if not login yet)
+echo.- git push

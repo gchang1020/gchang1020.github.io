@@ -7,40 +7,39 @@ My research spans geospatial data science, statistical modeling, and systems int
 
 ### Research Interests ###
 
-## Authoritarian Politics & CCP Elite Studies
+**Authoritarian Politics & CCP Elite Studies**
 
-- **Elite recruitment, survival, and promotion** within the Chinese Communist Party: factional networks, geographic gatekeeping, and the personalization of rule under Xi Jinping
+- Elite recruitment, survival, and promotion: within the Chinese Communist Party: factional networks, geographic gatekeeping, and the personalization of rule under Xi Jinping
 - **Comparative authoritarianism**: regime durability, propaganda, cultural legitimation, and the strategic asymmetry between democracies and authoritarian states
 
-## Southeast Asia and Regional Influence
+**Southeast Asia and Regional Influence**
 
-- **Dual dependence and foreign policy substitution**: when economic pressure from China increases, do ASEAN states compensate by deepening security ties with the US, or do they capitulate? A time-series cross-sectional study of foreign policy responses across Southeast Asia
-- **Elite capture vs. institutional resistance**: in the Philippines, Cambodia, and Malaysia, Chinese economic penetration operates partly through elite-level deals; does the structure of domestic political institutions predict whether economic leverage translates into foreign policy concessions?
+- Dual dependence and foreign policy substitution: when economic pressure from China increases, do ASEAN states compensate by deepening security ties with the US, or do they capitulate? A time-series cross-sectional study of foreign policy responses across Southeast Asia
+- Elite capture vs. institutional resistance: in the Philippines, Cambodia, and Malaysia, Chinese economic penetration operates partly through elite-level deals; does the structure of domestic political institutions predict whether economic leverage translates into foreign policy concessions?
 
-## Japan, Korea, and Cross-Strait Tensions
+**Japan, Korea, and Cross-Strait Tensions**
 
-- **Taiwan Strait signaling and CCP elite politics**: do military provocations or diplomatic signals toward Taiwan correlate with internal factional dynamics or leadership cycles within the CCP?
+- Taiwan Strait signaling and CCP elite politics: do military provocations or diplomatic signals toward Taiwan correlate with internal factional dynamics or leadership cycles within the CCP?
 - **Neighboring state perceptions of CCP factionalism**: how do Japanese and Korean foreign policy establishments read and respond to internal shifts in Chinese elite composition?
 
-## Geopolitics and the Indopacific
+**Geopolitics and the Indopacific**
 
-- **Critical mineral diplomacy and regime type**: does China preferentially secure agreements on lithium, cobalt, and nickel with autocratic or weakly institutionalized states, and does the US pattern differ?
-- **AUKUS and Indopacific coalition durability**: does AUKUS membership or the broader Indopacific framing shift Chinese military posture, BRI investment allocation, or diplomatic coercion? A before/after design around the 2021 announcement; a quantitative alignment measure (UN voting, arms sales, joint exercises, statement co-signing) to model what predicts coalition defection or drift toward China
-- **India's strategic hedging**: modeling India's Quad participation alongside its refusal to sanction Russia and its active border disputes with China, as a function of domestic politics and Chinese coercive pressure
-- **Authoritarian diffusion and the CCP model**: do countries with strong CCP-linked elite ties adopt similar nomenklatura-style elite selection mechanisms?
+- Critical mineral diplomacy and regime type: does China preferentially secure agreements on lithium, cobalt, and nickel with autocratic or weakly institutionalized states, and does the US pattern differ?
+- AUKUS and Indopacific coalition durability: does AUKUS membership or the broader Indopacific framing shift Chinese military posture, BRI investment allocation, or diplomatic coercion? A before/after design around the 2021 announcement; a quantitative alignment measure (UN voting, arms sales, joint exercises, statement co-signing) to model what predicts coalition defection or drift toward China
+- India's strategic hedging: modeling India's Quad participation alongside its refusal to sanction Russia and its active border disputes with China, as a function of domestic politics and Chinese coercive pressure
+- Authoritarian diffusion and the CCP model: do countries with strong CCP-linked elite ties adopt similar nomenklatura-style elite selection mechanisms?
 
-## Methods & Analytical Strengths
+**Methods & Analytical Strengths**
 
-- **Hierarchical and multilevel modeling**: Bayesian hierarchical models (INLA), mixed-effects specifications (GLMM), and frailty models for survival analysis, with particular attention to nested and spatially structured random effects that identify place-based, institutional, and individual-level variation simultaneously
-- **Geographic Information Systems**: ArcGIS Pro, Google Earth Engine, spatial econometrics, remote sensing, suitability modeling, and the digitization and georeferencing of historical spatial data
-- **Causal inference and time-series methods**: difference-in-differences, regression discontinuity, propensity score matching, and panel data designs applied to political and social science questions
+- Hierarchical and multilevel modeling: Bayesian hierarchical models (INLA), mixed-effects specifications (GLMM), and frailty models for survival analysis, with particular attention to nested and spatially structured random effects that identify place-based, institutional, and individual-level variation simultaneously
+- Geographic Information Systems: ArcGIS Pro, Google Earth Engine, spatial econometrics, remote sensing, suitability modeling, and the digitization and georeferencing of historical spatial data
+- Causal inference and time-series methods: difference-in-differences, regression discontinuity, propensity score matching, and panel data designs applied to political and social science questions
 
 ---
 
 ### Projects, Manuscripts, and Papers ###
 
-## Mitigating Flight Sequence Risk through Spatial-Temporal Modeling and Optimization
-
+**Mitigating Flight Sequence Risk through Spatial-Temporal Modeling and Optimization**
 *Top-7 Finalist Research Paper — American Airlines / UTD Challenge · 2026*
 
 Developed an end-to-end predictive and optimization framework to identify and minimize airline misconnection risk within hub-and-spoke networks using American Airlines operations at Dallas/Fort Worth (DFW). Constructed a large-scale spatial-temporal dataset of over 7 million inbound–outbound flight connection pairs from Bureau of Transportation Statistics (BTS) records (2010–2019), enriched with operational, scheduling, weather, and network-congestion variables.
@@ -55,8 +54,7 @@ Integrated machine learning risk scores into a combinatorial optimization pipeli
 
 ---
 
-## Geography of Power: Spatial Pathways to the CCP Central Committee
-
+**Geography of Power: Spatial Pathways to the CCP Central Committee**
 *Dissertation Paper · 2026*
 
 Why do some places consistently produce more political elites than others? This paper examines the geographic origins of CCP Central Committee members across the 16th through 20th Party Congresses (2002–2022), using county-level administrative data for over 2,800 units across China. Combining generalized linear models with Bayesian spatiotemporal models estimated via Integrated Nested Laplace Approximation (INLA), the study tests whether elite production reflects local spatial spillovers, structural accessibility, or historically embedded institutional advantage.
@@ -71,8 +69,9 @@ The most striking finding is temporal: an autoregressive spatiotemporal specific
 
 ---
 
-## Who Survives? Elite Retention and the Mechanisms of Durability in the CCP Central Committee
+**Who Survives? Elite Retention and the Mechanisms of Durability in the CCP Central Committee**
 *Dissertation Paper · 2026*
+
 While most research on Chinese elite politics asks who enters or rises within the CCP, this paper asks a distinct question: once officials reach the Central Committee, who stays? Drawing on a comprehensive panel of individual career histories across the 16th through 20th Party Congresses, the study examines the institutional, relational, and demographic mechanisms that determine whether a Central Committee member survives into the next congressional session.
 
 The paper contributes to three debates. On authoritarian institutionalization: age-based retirement norms retain binding force even under Xi Jinping's consolidation, while relational embeddedness continues to structure intra-elite resilience within formally bounded career trajectories. On institutional versus relational accounts of elite politics: static factional labels are weaker predictors of survival than dynamic network embeddedness — CYL affiliation carries no independent predictive power once age, career background, and network ties are controlled — pointing toward relational rather than factional interpretations of post-entry durability. On temporal stability: the relative weight of credentials versus networks shifts across leadership periods, with formal qualifications providing more reliable protection during consolidation as inherited patronage structures are disrupted.
@@ -85,8 +84,9 @@ Three estimators are combined for robustness: logistic regression models estimat
 
 ---
 
-## Who Advances? Elite Selection and the Transformation of CCP Promotion Logic
+**Who Advances? Elite Selection and the Transformation of CCP Promotion Logic**
 *Dissertation Paper · 2026*
+
 This paper investigates what determines promotion from the Central Committee to the Politburo, with particular attention to whether the criteria governing that transition changed after the 18th Party Congress. The central argument is that institutionalized factional balance, which structured elite advancement during the Hu Jintao era, has been progressively displaced by leader-centered selection under Xi Jinping, with Communist Youth League (CYL) network affiliation transforming from an asset into a liability.
 
 Using a panel of 281 eligible elite observations across the 16th through 20th Congresses, the paper combines descriptive statistics, network visualization, and logistic regression (GLM and GLMM) to evaluate promotion patterns. CYL Central Committee background is treated as an observable proxy for the Tuanpai faction, whose political value can be tracked before and after the regime shift. The results are clear: prior to the 18th Congress, a CYL-affiliated official at the sample mean had an estimated Politburo promotion probability of approximately 42%, versus 8% for an otherwise identical non-CYL official. After the 18th Congress that advantage reverses, CYL-affiliated officials drop to roughly 9% while non-CYL officials rise to 17%. The interaction between CYL affiliation and the post-18th period is consistently negative and significant across all model specifications, and the penalty is factional rather than generational: it is concentrated specifically in officials with CYL backgrounds, not in the post-18th cohort broadly. Network visualizations of Politburo co-membership show a visible cluster of CYL-linked elites in the 17th and 18th Congress cohorts that disappears almost entirely by the 19th and is fully absent by the 20th. These findings suggest a hybrid rather than wholesale transformation of elite selection: technocratic credentials retain modest positive associations with promotion, but factional networks that once provided institutional protection have been selectively dismantled.
@@ -97,8 +97,9 @@ Using a panel of 281 eligible elite observations across the 16th through 20th Co
 
 ---
 
-## Bayesian Spatiotemporal Modeling of Renal Disease Mortality Across Texas Counties, 2010–2019
+**Bayesian Spatiotemporal Modeling of Renal Disease Mortality Across Texas Counties, 2010–2019**
 *Master's Thesis Paper · 2025*
+
 Where in Texas do people die of kidney disease at elevated rates, and why do those places persist as high-risk even after accounting for income, education, race, and access to care? This paper examines county-level chronic kidney disease mortality across all 254 Texas counties over a ten-year panel, using a suite of eight competing Bayesian hierarchical models to evaluate how different spatial and temporal specifications shape inference about mortality disparities. The central methodological question, which combination of spatial prior and temporal structure best represents underlying patterns, drives a systematic comparison that has not previously been applied to county-level ESRD mortality in Texas.
 
 The modeling framework compares specifications along two dimensions: spatial structure, ranging from independent random effects (IID) through proper conditional autoregressive priors (Besagproper2) to the Besag–York–Mollié formulation (BYM2), and temporal structure, from no temporal component through IID and first-order random walk (RW1) to county-specific random slopes. The preferred model, sBesagproper2_tRW1_cov, was selected over the lower-DIC but more heavily parameterized BYM2 specification on grounds of parsimony, interpretability, and resistance to overfitting given the ten-year temporal window. Model adequacy was assessed via DIC and residual Moran's I, which drops to statistically insignificant levels only once spatial random effects are included, confirming that non-spatial specifications leave meaningful autocorrelation in their residuals.
@@ -113,8 +114,9 @@ The most important methodological contribution is demonstrating that model speci
 
 ---
 
-## The Price of Being Right: Why Moral Superiority Can't Win Global Power
+**The Price of Being Right: Why Moral Superiority Can't Win Global Power**
 *Working Paper, 2025*
+
 Liberal democracies have long mistaken moral restraint for strategic strength. This paper argues that forty years of engagement policy empowered authoritarian competitors by granting them trade access, capital, and technology while expecting political liberalization in return, a miscalculation that produced strategic dependency rather than convergence. Drawing on realist IR theory and comparative politics, the paper identifies a fundamental asymmetry: democracies are norm-bound and procedurally constrained while authoritarian rivals are result-oriented and unconstrained. The paper calls for democracies to rediscover strategic realism, reclaiming industrial capacity, forging alliances of production, and developing bounded mechanisms of collective mobilization, without abandoning the liberal principles that define them.
 
 **Keywords:** strategic asymmetry · liberal order · authoritarian competition · democratic resilience · strategic realism
@@ -122,8 +124,9 @@ Liberal democracies have long mistaken moral restraint for strategic strength. T
 
 ---
 
-## Autocratic Survival Beyond Institutions: History, Culture, and Propaganda
+**Autocratic Survival Beyond Institutions: History, Culture, and Propaganda**
 *Working Paper, 2025*
+
 Why do some authoritarian regimes endure for decades while others collapse? This paper critically engages Gandhi and Przeworski's influential institutionalist account, which holds that legislatures and parties stabilize dictatorships by structuring elite bargains, and argues that formal institutions cannot explain durability on their own. Drawing on case studies of China, the Soviet Union, and North Korea alongside scholarship by Perry, Fitzpatrick, and Wedeen, the paper shows that authoritarian resilience depends on three additional pillars: revolutionary historical narratives that generate legitimacy, cultural traditions of hierarchy and obedience (particularly Confucian filial piety in the Chinese case), and propaganda systems that function not as mere messaging but as institutionalized discipline saturating everyday life. A synthetic framework integrating all four dimensions is proposed.
 
 **Keywords:** authoritarianism · autocratic survival · institutions · propaganda · Confucianism · China · USSR · North Korea
@@ -131,8 +134,9 @@ Why do some authoritarian regimes endure for decades while others collapse? This
 
 ---
 
-## Detecting Objects in Drone Photos with YOLO, Roboflow, and Label-Studio
+**Detecting Objects in Drone Photos with YOLO, Roboflow, and Label-Studio**
 *Term Research Paper · 2025*
+
 How can a practitioner systematically manage the messy, multi-step workflow of a drone-based object detection project without losing track of files, formats, and experimental parameters across platforms? This project develops PyYolo, a Python CLI tool designed to integrate labeling platforms (Roboflow, Label-Studio), model training, and inference into a single, reproducible pipeline, then applies it to detecting pre-fabricated tube structures at a construction site from aerial drone imagery.
 
 The core challenge is organizational as much as technical. A typical YOLO-based detection project spans image splitting, platform-specific annotation, format conversion, model training across multiple configurations, and threshold-tuned inference, each step generating its own file artifacts in incompatible structures. PyYolo addresses this by standardizing directory trees, serializing run configurations into folder names (e.g., s-20-640-2_pred_0.25 encodes model size, epoch, image size, batch, and confidence threshold), and converting exports from both Roboflow and Label-Studio, including COCO JSON format, into the YOLOv8 dataset specification.
@@ -147,8 +151,9 @@ The project reframes drone-based object detection as a data management problem a
 
 ---
 
-## Damage Assessment of Wenchang Space Center after Typhoon Yagi
+**Damage Assessment of Wenchang Space Center after Typhoon Yagi**
 *Term Research Project · 2024*
+
 How much did Typhoon Yagi damage China's Wenchang Space Launch Site? This project uses pre- and post-typhoon satellite imagery to detect and quantify vegetation loss at the facility following Yagi's landfall on Hainan Island around August 30, 2024, one of the strongest typhoons to hit the island in recent memory, with peak winds of 145 mph and a death toll of 46.
 
 Sentinel-2 L2A imagery (10–20m resolution, 9 spectral bands) was sourced from the European Copernicus data center and Google Earth Engine, with two acquisitions bracketing the storm: August 4 (pre-typhoon) and September 13 (post-typhoon). The study area was defined by a bounding box over the space center on the northeastern coast of Hainan. All image processing was performed in Python rather than ArcGIS Pro, to develop a deeper, parameter-level understanding of each analytical step.
@@ -163,8 +168,9 @@ The project demonstrates that open-access satellite data combined with Python-ba
 
 ---
 
-## Finding Preferable Locations to Build Hybrid Renewable Energy Systems in Tanzania
+**Finding Preferable Locations to Build Hybrid Renewable Energy Systems in Tanzania**
 *Term Research Project · 2023*
+
 Where in Tanzania should hybrid solar-wind energy plants be built? This project applies GIS-based Suitability Modeling to identify viable sites for hybrid renewable energy systems in Tanzania, a country where over 85% of the population still relies on traditional fuels and rural electrification remains below 17%. Because solar and wind resources are complementary by nature (solar peaks during the day, wind at night), hybrid systems offer more stable output than either source alone and lower total investment costs, making them especially well-suited to Tanzania's energy access challenges.
 
 The analysis follows the weighted overlap workflow in ArcGIS Pro's Suitability Modeler: defining criteria, sourcing and cleaning multi-format raster and vector data from 15+ providers (including DIVA-GIS, Global Solar Atlas, Global Wind Atlas, WorldPop, and Protected Planet), reprojecting and converting all layers to a consistent coordinate system, and transforming each into a 0–1 preference surface using appropriate functions (Gaussian for wind and solar thresholds, Large for distance buffers, SymmetricLinear for aspect). Ten criteria governed site selection: minimum wind speed of 5–6 m/s and solar radiation of 4.5 kWh/m²/day, slope under 3%, aspect within ±60°, and required setbacks from airports (3,000m), residential areas (2,000m), water bodies (400m), protected areas (500m), roads and railroads (500m), and dense population zones. Aspect carried the highest weight (29.85%), followed by wind and solar at 18.91% each.
