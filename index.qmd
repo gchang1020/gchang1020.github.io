@@ -7,7 +7,7 @@ toc: false
 ```{=html}
 <div class="profile-hero">
   <div class="profile-photo-wrap">
-    <img src="assets/profile.jpg" alt="Profile photo" class="profile-photo" onerror="this.style.display='none'; document.querySelector('.profile-photo-placeholder').style.display='flex';" />
+    <img src="Avatar.png" alt="Profile photo" class="profile-photo" onerror="this.style.display='none'; document.querySelector('.profile-photo-placeholder').style.display='flex';" />
     <div class="profile-photo-placeholder">GC</div>
   </div>
   <div class="profile-text">
