@@ -6,7 +6,6 @@ toc: false
 My full CV is available as a PDF below.
 
 <div style="margin: 2rem 0;">
-  <a href="cv/cv.pdf" target="_blank" class="profile-link" style="font-size: 1rem; padding: 0.5rem 1.25rem;">↗ Download / View CV (PDF)</a>
+  <a href="cv/cv.pdf" target="_blank" class="profile-link" 
+     style="font-size: 1rem; padding: 0.5rem 1.25rem;">↗ View / Download CV (PDF)</a>
 </div>
-
-<iframe src="cv/cv.pdf" width="100%" height="900px" style="border: 1px solid #e0ddd8; border-radius: 4px; margin-top: 1.5rem;"></iframe>

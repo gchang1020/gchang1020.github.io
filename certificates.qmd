@@ -8,20 +8,19 @@ toc: false
 **Graduate Teaching Certificate**  
 University of Texas at Dallas
 
-**GIS Certificate**  
+**Graduate Certificate Geospatial Information Sciences**  
 University of Texas at Dallas
 
 ## ESRI / ArcGIS Training
 
-- Introduction to GIS
-- Spatial Analysis
-- [ESRI course name]
-- [ESRI course name]
-- [ESRI course name]
-- [ESRI course name]
-- [ESRI course name]
-- [ESRI course name]
-- [ESRI course name]
-- [ESRI course name]
-
-*Replace the bracketed entries above with your actual ESRI course names.*
+- Deep Learning Using ArcGIS Pro
+- Integrating R Scripts into ArcGIS Geoprocessing Tools
+- Mapping Clusters: Hot Spot and Cluster and Outlier Analysis
+- Mapping Clusters: Optimized Hot Spot and Optimized Outlier Analysis
+- Mapping Clusters: Introduction to Statistical Cluster Analysis
+- Regression Analysis: Building a Regression Model Using ArcGIS Pro
+- Regression Analysis: Performing Random Forest Regression Using ArcGIS Pro
+- Spatial Data Science: The New Frontier in Analytics
+- Suitability Modeling: Creating a Weighted Suitability Model
+- Suitability Modeling: Creating a Simple Suitability Model
+- Using the R-ArcGIS Bridge
