@@ -5,11 +5,11 @@ toc: false
 
 ## Academic Credentials
 
-**Graduate Teaching Certificate**  
-University of Texas at Dallas
+- Graduate Teaching Certificate
+	University of Texas at Dallas
 
-**Graduate Certificate Geospatial Information Sciences**  
-University of Texas at Dallas
+- Graduate Certificate Geospatial Information Sciences
+	University of Texas at Dallas
 
 ## ESRI / ArcGIS Training
 

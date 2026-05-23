@@ -5,31 +5,31 @@ toc: true
 
 My research spans geospatial data science, statistical modeling, and systems integration. Below are my current and completed projects, each with associated papers or manuscripts where applicable.
 
-## Research Interests ##
+### Research Interests ###
 
-### Authoritarian Politics & CCP Elite Studies
+## Authoritarian Politics & CCP Elite Studies
 
 - **Elite recruitment, survival, and promotion** within the Chinese Communist Party: factional networks, geographic gatekeeping, and the personalization of rule under Xi Jinping
 - **Comparative authoritarianism**: regime durability, propaganda, cultural legitimation, and the strategic asymmetry between democracies and authoritarian states
 
-### Southeast Asia and Regional Influence
+## Southeast Asia and Regional Influence
 
 - **Dual dependence and foreign policy substitution**: when economic pressure from China increases, do ASEAN states compensate by deepening security ties with the US, or do they capitulate? A time-series cross-sectional study of foreign policy responses across Southeast Asia
 - **Elite capture vs. institutional resistance**: in the Philippines, Cambodia, and Malaysia, Chinese economic penetration operates partly through elite-level deals; does the structure of domestic political institutions predict whether economic leverage translates into foreign policy concessions?
 
-### Japan, Korea, and Cross-Strait Tensions
+## Japan, Korea, and Cross-Strait Tensions
 
 - **Taiwan Strait signaling and CCP elite politics**: do military provocations or diplomatic signals toward Taiwan correlate with internal factional dynamics or leadership cycles within the CCP?
 - **Neighboring state perceptions of CCP factionalism**: how do Japanese and Korean foreign policy establishments read and respond to internal shifts in Chinese elite composition?
 
-### Geopolitics and the Indopacific
+## Geopolitics and the Indopacific
 
 - **Critical mineral diplomacy and regime type**: does China preferentially secure agreements on lithium, cobalt, and nickel with autocratic or weakly institutionalized states, and does the US pattern differ?
 - **AUKUS and Indopacific coalition durability**: does AUKUS membership or the broader Indopacific framing shift Chinese military posture, BRI investment allocation, or diplomatic coercion? A before/after design around the 2021 announcement; a quantitative alignment measure (UN voting, arms sales, joint exercises, statement co-signing) to model what predicts coalition defection or drift toward China
 - **India's strategic hedging**: modeling India's Quad participation alongside its refusal to sanction Russia and its active border disputes with China, as a function of domestic politics and Chinese coercive pressure
 - **Authoritarian diffusion and the CCP model**: do countries with strong CCP-linked elite ties adopt similar nomenklatura-style elite selection mechanisms?
 
-### Methods & Analytical Strengths
+## Methods & Analytical Strengths
 
 - **Hierarchical and multilevel modeling**: Bayesian hierarchical models (INLA), mixed-effects specifications (GLMM), and frailty models for survival analysis, with particular attention to nested and spatially structured random effects that identify place-based, institutional, and individual-level variation simultaneously
 - **Geographic Information Systems**: ArcGIS Pro, Google Earth Engine, spatial econometrics, remote sensing, suitability modeling, and the digitization and georeferencing of historical spatial data
@@ -37,9 +37,9 @@ My research spans geospatial data science, statistical modeling, and systems int
 
 ---
 
-## Projects, Manuscripts, and Papers
+### Projects, Manuscripts, and Papers ###
 
-### Mitigating Flight Sequence Risk through Spatial-Temporal Modeling and Optimization
+## Mitigating Flight Sequence Risk through Spatial-Temporal Modeling and Optimization
 
 *Top-7 Finalist Research Paper — American Airlines / UTD Challenge · 2026*
 
@@ -55,7 +55,7 @@ Integrated machine learning risk scores into a combinatorial optimization pipeli
 
 ---
 
-### Geography of Power: Spatial Pathways to the CCP Central Committee
+## Geography of Power: Spatial Pathways to the CCP Central Committee
 
 *Dissertation Paper · 2026*
 
@@ -71,7 +71,7 @@ The most striking finding is temporal: an autoregressive spatiotemporal specific
 
 ---
 
-### Who Survives? Elite Retention and the Mechanisms of Durability in the CCP Central Committee
+## Who Survives? Elite Retention and the Mechanisms of Durability in the CCP Central Committee
 *Dissertation Paper · 2026*
 While most research on Chinese elite politics asks who enters or rises within the CCP, this paper asks a distinct question: once officials reach the Central Committee, who stays? Drawing on a comprehensive panel of individual career histories across the 16th through 20th Party Congresses, the study examines the institutional, relational, and demographic mechanisms that determine whether a Central Committee member survives into the next congressional session.
 
@@ -85,7 +85,7 @@ Three estimators are combined for robustness: logistic regression models estimat
 
 ---
 
-### Who Advances? Elite Selection and the Transformation of CCP Promotion Logic
+## Who Advances? Elite Selection and the Transformation of CCP Promotion Logic
 *Dissertation Paper · 2026*
 This paper investigates what determines promotion from the Central Committee to the Politburo, with particular attention to whether the criteria governing that transition changed after the 18th Party Congress. The central argument is that institutionalized factional balance, which structured elite advancement during the Hu Jintao era, has been progressively displaced by leader-centered selection under Xi Jinping, with Communist Youth League (CYL) network affiliation transforming from an asset into a liability.
 
@@ -97,7 +97,7 @@ Using a panel of 281 eligible elite observations across the 16th through 20th Co
 
 ---
 
-### Bayesian Spatiotemporal Modeling of Renal Disease Mortality Across Texas Counties, 2010–2019
+## Bayesian Spatiotemporal Modeling of Renal Disease Mortality Across Texas Counties, 2010–2019
 *Master's Thesis Paper · 2025*
 Where in Texas do people die of kidney disease at elevated rates, and why do those places persist as high-risk even after accounting for income, education, race, and access to care? This paper examines county-level chronic kidney disease mortality across all 254 Texas counties over a ten-year panel, using a suite of eight competing Bayesian hierarchical models to evaluate how different spatial and temporal specifications shape inference about mortality disparities. The central methodological question, which combination of spatial prior and temporal structure best represents underlying patterns, drives a systematic comparison that has not previously been applied to county-level ESRD mortality in Texas.
 
@@ -113,7 +113,7 @@ The most important methodological contribution is demonstrating that model speci
 
 ---
 
-### The Price of Being Right: Why Moral Superiority Can't Win Global Power
+## The Price of Being Right: Why Moral Superiority Can't Win Global Power
 *Working Paper, 2025*
 Liberal democracies have long mistaken moral restraint for strategic strength. This paper argues that forty years of engagement policy empowered authoritarian competitors by granting them trade access, capital, and technology while expecting political liberalization in return, a miscalculation that produced strategic dependency rather than convergence. Drawing on realist IR theory and comparative politics, the paper identifies a fundamental asymmetry: democracies are norm-bound and procedurally constrained while authoritarian rivals are result-oriented and unconstrained. The paper calls for democracies to rediscover strategic realism, reclaiming industrial capacity, forging alliances of production, and developing bounded mechanisms of collective mobilization, without abandoning the liberal principles that define them.
 
@@ -122,7 +122,7 @@ Liberal democracies have long mistaken moral restraint for strategic strength. T
 
 ---
 
-### Autocratic Survival Beyond Institutions: History, Culture, and Propaganda
+## Autocratic Survival Beyond Institutions: History, Culture, and Propaganda
 *Working Paper, 2025*
 Why do some authoritarian regimes endure for decades while others collapse? This paper critically engages Gandhi and Przeworski's influential institutionalist account, which holds that legislatures and parties stabilize dictatorships by structuring elite bargains, and argues that formal institutions cannot explain durability on their own. Drawing on case studies of China, the Soviet Union, and North Korea alongside scholarship by Perry, Fitzpatrick, and Wedeen, the paper shows that authoritarian resilience depends on three additional pillars: revolutionary historical narratives that generate legitimacy, cultural traditions of hierarchy and obedience (particularly Confucian filial piety in the Chinese case), and propaganda systems that function not as mere messaging but as institutionalized discipline saturating everyday life. A synthetic framework integrating all four dimensions is proposed.
 
@@ -131,7 +131,7 @@ Why do some authoritarian regimes endure for decades while others collapse? This
 
 ---
 
-### Detecting Objects in Drone Photos with YOLO, Roboflow, and Label-Studio
+## Detecting Objects in Drone Photos with YOLO, Roboflow, and Label-Studio
 *Term Research Paper · 2025*
 How can a practitioner systematically manage the messy, multi-step workflow of a drone-based object detection project without losing track of files, formats, and experimental parameters across platforms? This project develops PyYolo, a Python CLI tool designed to integrate labeling platforms (Roboflow, Label-Studio), model training, and inference into a single, reproducible pipeline, then applies it to detecting pre-fabricated tube structures at a construction site from aerial drone imagery.
 
@@ -147,7 +147,7 @@ The project reframes drone-based object detection as a data management problem a
 
 ---
 
-### Damage Assessment of Wenchang Space Center after Typhoon Yagi
+## Damage Assessment of Wenchang Space Center after Typhoon Yagi
 *Term Research Project · 2024*
 How much did Typhoon Yagi damage China's Wenchang Space Launch Site? This project uses pre- and post-typhoon satellite imagery to detect and quantify vegetation loss at the facility following Yagi's landfall on Hainan Island around August 30, 2024, one of the strongest typhoons to hit the island in recent memory, with peak winds of 145 mph and a death toll of 46.
 
@@ -163,7 +163,7 @@ The project demonstrates that open-access satellite data combined with Python-ba
 
 ---
 
-### Finding Preferable Locations to Build Hybrid Renewable Energy Systems in Tanzania
+## Finding Preferable Locations to Build Hybrid Renewable Energy Systems in Tanzania
 *Term Research Project · 2023*
 Where in Tanzania should hybrid solar-wind energy plants be built? This project applies GIS-based Suitability Modeling to identify viable sites for hybrid renewable energy systems in Tanzania, a country where over 85% of the population still relies on traditional fuels and rural electrification remains below 17%. Because solar and wind resources are complementary by nature (solar peaks during the day, wind at night), hybrid systems offer more stable output than either source alone and lower total investment costs, making them especially well-suited to Tanzania's energy access challenges.
 
