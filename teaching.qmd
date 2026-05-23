@@ -21,14 +21,14 @@ Across all of my courses I hold two things constant. First, I take students seri
 
 | Title | Level | School |
 |-------|-------|--------|
-| Political Economy | Undergraduate | UT Dallas |
-| American National Government | Undergraduate | UT Dallas |
-| State and Local Government | Undergraduate | UT Dallas |
-| Research Design I | Undergraduate | UT Dallas |
-| Geographic Information Systems Fundamentals | Undergraduate | UT Dallas |
-| Python Programming for Social Science | **Graduate** | UT Dallas |
-| Civil War and Conflict Resolution | Undergraduate | UT Dallas |
-| International Relations | Undergraduate | UT Dallas |
+| Political Economy | Undergraduate | University of Texas at Dallas |
+| American National Government | Undergraduate | University of Texas at Dallas |
+| State and Local Government | Undergraduate | University of Texas at Dallas |
+| Research Design I | Undergraduate | University of Texas at Dallas |
+| Geographic Information Systems Fundamentals | Undergraduate | University of Texas at Dallas |
+| Python Programming for Social Science | **Graduate** | University of Texas at Dallas |
+| Civil War and Conflict Resolution | Undergraduate | University of Texas at Dallas |
+| International Relations | Undergraduate | University of Texas at Dallas |
 | Financial Institutions and Simulation | Undergraduate | Northwood University (China) |
 | Real Estate Finance & Analysis | Undergraduate | Northwood University (China) |
 | Team Skills | **Graduate** | Peking University |
