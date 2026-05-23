@@ -14,8 +14,8 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
-      - href: certificates.qmd
-        text: Certificates
+      - href: credentials.qmd
+        text: Awards & Certifications
       - href: cv.qmd
         text: CV
     right:
