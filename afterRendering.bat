@@ -2,6 +2,15 @@
 
 :: update avatar.png in index.html
 echo.Update Avatar.png ...
+set HTML=d:\workspace\gchang1020.github.io\index.html
+if "%1"=="photo" (
+	echo.With 'photo' argument, you will show avatar in index.html
+	sed "/profile-photo-placeholder/d" "%HTML%" > "%HTML%.tmp"
+) else (
+	echo.With no argument, you will not show avatar in index.html
+	sed "/class=\"profile-photo\"/d" "%HTML%" > "%HTML%.tmp"
+)
+move /Y "%HTML%.tmp" "%HTML%"
 
 :: insert '<br>' in credentials.html
 echo.Insert ^<BR^> ...
