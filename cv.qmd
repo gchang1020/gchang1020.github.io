@@ -6,6 +6,6 @@ toc: false
 My full CV is available as a PDF below.
 
 <div style="margin: 2rem 0;">
-  <a href="cv/cv.pdf" target="_blank" class="profile-link" 
+  <a href="cv.pdf" target="_blank" class="profile-link" 
      style="font-size: 1rem; padding: 0.5rem 1.25rem;">↗ View / Download CV (PDF)</a>
 </div>
