@@ -125,8 +125,23 @@ The most important methodological contribution is demonstrating that model speci
 ---
 
 <details>
+<summary><strong>System Justification in a Non-Democracy: Evidence from China</strong></summary>
+*Field Research Paper · 2024*
+
+Do the powerless in Chinese society legitimize the existing political order the way marginalized groups do in democracies? This paper tests van der Toorn et al.'s finding that powerless individuals perceive governmental authority as more legitimate, asking whether that dynamic holds in China, a structurally distinct, non-democratic context. Using data from the Chinese General Social Survey (CGSS-2015), with CGSS-2021 as a robustness check, the study regresses attitudes toward government restrictions on migration and speech on political affiliation, residential status, coastal location, ethnicity, education, and a constructed privilege index.
+
+The baseline results contradict system justification theory: politically privileged groups, CCP members and those with party-affiliated parents, support restrictive policies, while the powerless lean in the opposite direction. Interaction specifications add texture: among urban residents, privilege partially moderates opposition to speech restrictions; education consistently amplifies pro-freedom attitudes and progressively weakens the privilege effect; and coastal location emerges as a significant moderating factor only in 2021, suggesting that international exposure conditions how privilege translates into political attitudes in a post-COVID context. Together, the findings indicate that theories of bottom-up legitimation developed in democratic settings require qualification before they can be applied to China, and that Chinese exceptionalism manifests, at least in part, as resistance rather than endorsement from those most excluded by the system.
+
+**Methods:** OLS Regression · Interaction Specifications · Privilege Index Construction (Cronbach's Alpha reliability analysis)
+
+**Data:** Chinese General Social Survey (CGSS-2015, primary; CGSS-2021, robustness check) · Individual-level attitudinal responses on migration and speech freedom · Political affiliation, hukou status, ethnicity, education, and socioeconomic controls
+</details>
+
+---
+
+<details>
 <summary><strong>The Price of Being Right: Why Moral Superiority Can't Win Global Power</strong></summary>
-*Working Paper, 2025*
+*Working Paper · 2025*
 
 Liberal democracies have long mistaken moral restraint for strategic strength. This paper argues that forty years of engagement policy empowered authoritarian competitors by granting them trade access, capital, and technology while expecting political liberalization in return, a miscalculation that produced strategic dependency rather than convergence. Drawing on realist IR theory and comparative politics, the paper identifies a fundamental asymmetry: democracies are norm-bound and procedurally constrained while authoritarian rivals are result-oriented and unconstrained. The paper calls for democracies to rediscover strategic realism, reclaiming industrial capacity, forging alliances of production, and developing bounded mechanisms of collective mobilization, without abandoning the liberal principles that define them.
 
@@ -138,7 +153,7 @@ Liberal democracies have long mistaken moral restraint for strategic strength. T
 
 <details>
 <summary><strong>Autocratic Survival Beyond Institutions: History, Culture, and Propaganda</strong></summary>
-*Working Paper, 2025*
+*Working Paper · 2025*
 
 Why do some authoritarian regimes endure for decades while others collapse? This paper critically engages Gandhi and Przeworski's influential institutionalist account, which holds that legislatures and parties stabilize dictatorships by structuring elite bargains, and argues that formal institutions cannot explain durability on their own. Drawing on case studies of China, the Soviet Union, and North Korea alongside scholarship by Perry, Fitzpatrick, and Wedeen, the paper shows that authoritarian resilience depends on three additional pillars: revolutionary historical narratives that generate legitimacy, cultural traditions of hierarchy and obedience (particularly Confucian filial piety in the Chinese case), and propaganda systems that function not as mere messaging but as institutionalized discipline saturating everyday life. A synthetic framework integrating all four dimensions is proposed.
 
