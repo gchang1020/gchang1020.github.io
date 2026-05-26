@@ -46,7 +46,7 @@
     "href": "index.html#skills",
     "title": "Gary Chang",
     "section": "Skills",
-    "text": "Skills\n\nProgramming & Data: Python · R · Stata · PHP · Java · C++/C#/C\nMachine Learning: Agentic AI · Deep Learning · LLMs · YOLO/RoboFlow · RF/SVM/KNN, etc\nGeospatial: ArcGIS Pro · Classification/Detection · Remote Sensing · Suitability Analysis\nStatistical Methods: Bayesian/INLA · Survival Analysis · Causal Inference (DID, RDD, PSM, 2SLS) · OLS/GLM/GLMM · PCA/FA/Ridge/Lasso\nDatabases & Systems: MySQL · PostgreSQL · MongoDB · Data Modeling · CRM/SFA/ERP · System Integration\nAnalytics: Data Engineering · Tableau · Power BI"
+    "text": "Skills\n\nProgramming & Data: Python · R · Stata · PHP · Java · C++/C#/C\nMachine Learning: Agentic AI · Deep Learning · LLMs · NLP · YOLO/RoboFlow · RF/SVM/KNN, etc\nGeospatial: ArcGIS Pro · Classification/Detection · Remote Sensing · Suitability Analysis, Image Processing\nStatistical Methods: Bayesian/INLA · Survival Analysis · Causal Inference (DID, RDD, PSM, 2SLS) · OLS/GLM/GLMM · PCA/FA/Ridge/Lasso\nDatabases & Systems: MySQL · PostgreSQL · MongoDB · Data Modeling · CRM/SFA/ERP · System Integration\nAnalytics: Data Engineering · Tableau · Power BI"
   },
   {
     "objectID": "credentials.html",

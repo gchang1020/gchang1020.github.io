@@ -47,9 +47,9 @@ M.B.A.
 
 - Programming & Data: Python · R · Stata · PHP · Java · C++/C#/C
 
-- Machine Learning: Agentic AI · Deep Learning · LLMs · YOLO/RoboFlow · RF/SVM/KNN, etc
+- Machine Learning: Agentic AI · Deep Learning · LLMs · NLP · YOLO/RoboFlow · RF/SVM/KNN, etc
 
-- Geospatial: ArcGIS Pro · Classification/Detection · Remote Sensing · Suitability Analysis
+- Geospatial: ArcGIS Pro · Classification/Detection · Remote Sensing · Suitability Analysis, Image Processing
 
 - Statistical Methods: Bayesian/INLA · Survival Analysis · Causal Inference (DID, RDD, PSM, 2SLS) · OLS/GLM/GLMM · PCA/FA/Ridge/Lasso
 

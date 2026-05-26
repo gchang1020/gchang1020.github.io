@@ -26,7 +26,7 @@ echo.Done!
 
 echo.
 echo.Next, you should run:
-echo.- git add.
+echo.- git add .
 echo.- git commit -m "message"
 echo.- ssh git@github.com (if not login yet)
 echo.- git push
