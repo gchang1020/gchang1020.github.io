@@ -3,37 +3,25 @@ title: "Research"
 toc: true
 ---
 
-My research spans geospatial data science, statistical modeling, and systems integration. Below are my current and completed projects, each with associated papers or manuscripts where applicable.
+My research agenda sits at the intersection of comparative authoritarianism, Indopacific geopolitics, and computational social science. I pursue questions about how authoritarian regimes sustain power, how states in Asia navigate great-power competition, and how spatial and statistical methods can reveal political structures that conventional approaches cannot see. The work below represents both active projects and the directions I plan to pursue after my dissertation.
 
-### Research Interests ###
+### Research Agenda ###
 
-**Authoritarian Politics & CCP Elite Studies**
+**Authoritarian Politics and CCP Elite Studies**
 
-- Elite recruitment, survival, and promotion: within the Chinese Communist Party: factional networks, geographic gatekeeping, and the personalization of rule under Xi Jinping
-- **Comparative authoritarianism**: regime durability, propaganda, cultural legitimation, and the strategic asymmetry between democracies and authoritarian states
+My dissertation establishes that elite recruitment, survival, and promotion within the CCP are structured by durable place-based hierarchies, shifting factional logics, and relational networks that change in response to leadership consolidation. The three dissertation papers document how geographic origin shapes access to the Central Committee, how relational embeddedness predicts survival better than factional labels, and how CYL network affiliation shifted from an asset to a liability after the 18th Party Congress. Going forward, I plan to extend this line of work in two directions. First, I will examine how Xi Jinping's anti-corruption campaign functions as a selective purging mechanism, testing whether campaign intensity predicts elite exit beyond what career background and network position can explain. Second, I aim to build a comparative framework that asks whether other single-party systems, particularly Vietnam and Cuba, exhibit analogous patterns of geographic concentration and factional displacement during leadership transitions.
 
-**Southeast Asia and Regional Influence**
+**Southeast Asia, Japan, Korea, and Regional Responses to Chinese Power**
 
-- Dual dependence and foreign policy substitution: when economic pressure from China increases, do ASEAN states compensate by deepening security ties with the US, or do they capitulate? A time-series cross-sectional study of foreign policy responses across Southeast Asia
-- Elite capture vs. institutional resistance: in the Philippines, Cambodia, and Malaysia, Chinese economic penetration operates partly through elite-level deals; does the structure of domestic political institutions predict whether economic leverage translates into foreign policy concessions?
+A second strand of my agenda examines how states in the Indopacific respond to Chinese economic and military pressure. I am developing a time-series cross-sectional study of ASEAN foreign policy substitution: when economic dependence on China increases, do states deepen security ties with the United States, or do they accommodate Beijing? Using UN voting data, arms sales records, and joint exercise counts as alignment measures, this project will test the dual dependence hypothesis against an institutional resistance account that emphasizes domestic political structure as the mediating variable. A related project focuses on Japan and South Korea, asking how their foreign policy establishments read and respond to internal shifts in CCP elite composition, treating elite-level signals as inputs to neighboring states' strategic calculations.
 
-**Japan, Korea, and Cross-Strait Tensions**
+**Indopacific Geopolitics and Authoritarian Diffusion**
 
-- Taiwan Strait signaling and CCP elite politics: do military provocations or diplomatic signals toward Taiwan correlate with internal factional dynamics or leadership cycles within the CCP?
-- **Neighboring state perceptions of CCP factionalism**: how do Japanese and Korean foreign policy establishments read and respond to internal shifts in Chinese elite composition?
+At the macro level, I am interested in two questions that connect Chinese elite politics to broader international order. The first concerns critical mineral diplomacy: does China preferentially secure agreements on lithium, cobalt, and nickel with autocratic or weakly institutionalized states, and does the comparison with US mineral diplomacy reveal a systematic regime-type bias? The second concerns authoritarian diffusion: do countries with dense CCP-linked elite ties adopt analogous nomenklatura-style selection mechanisms, and if so, through what channels does that institutional transfer occur? Both projects will use dyadic panel data and causal inference designs to distinguish selection effects from genuine diffusion.
 
-**Geopolitics and the Indopacific**
+**Methods and Analytical Contributions**
 
-- Critical mineral diplomacy and regime type: does China preferentially secure agreements on lithium, cobalt, and nickel with autocratic or weakly institutionalized states, and does the US pattern differ?
-- AUKUS and Indopacific coalition durability: does AUKUS membership or the broader Indopacific framing shift Chinese military posture, BRI investment allocation, or diplomatic coercion? A before/after design around the 2021 announcement; a quantitative alignment measure (UN voting, arms sales, joint exercises, statement co-signing) to model what predicts coalition defection or drift toward China
-- India's strategic hedging: modeling India's Quad participation alongside its refusal to sanction Russia and its active border disputes with China, as a function of domestic politics and Chinese coercive pressure
-- Authoritarian diffusion and the CCP model: do countries with strong CCP-linked elite ties adopt similar nomenklatura-style elite selection mechanisms?
-
-**Methods & Analytical Strengths**
-
-- Hierarchical and multilevel modeling: Bayesian hierarchical models (INLA), mixed-effects specifications (GLMM), and frailty models for survival analysis, with particular attention to nested and spatially structured random effects that identify place-based, institutional, and individual-level variation simultaneously
-- Geographic Information Systems: ArcGIS Pro, Google Earth Engine, spatial econometrics, remote sensing, suitability modeling, and the digitization and georeferencing of historical spatial data
-- Causal inference and time-series methods: difference-in-differences, regression discontinuity, propensity score matching, and panel data designs applied to political and social science questions
+My methodological agenda has two forward-looking priorities. First, I plan to write a methods paper that formalizes the Bayesian INLA workflow for political science panel data, offering practical guidance on spatial prior selection, DIC-based model comparison, and the interpretation of spatially structured random effects for scholars who work with nested or geographically clustered data. Second, I intend to push my geospatial toolkit into new substantive terrain, applying remote sensing, historical GIS, and spatial econometrics to political questions where the geographic dimension is theoretically central rather than incidental. This includes tracing how historical infrastructure shapes contemporary political access, how satellite imagery can document state behavior in closed or sensitive locations, and how suitability modeling frameworks developed in environmental contexts can be adapted to study the spatial logic of authoritarian resource allocation. I also plan to formalize my LLM-assisted biographical data pipeline into a shareable toolkit for scholars studying elite politics in closed systems, where structured data must be constructed rather than downloaded.
 
 ---
 
