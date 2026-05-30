@@ -2,6 +2,8 @@
 set RARFILE=d:\temp\gchang1020.github.io.rar
 set SRC=D:\workspace\gchang1020.github.io
 
+if exist "%RARFILE%" del "%RARFILE%"
+
 winrar a -r "%RARFILE%" "%SRC%\" ^
   -x"*.html" -x"*\*.html" ^
   -x"cv.pdf" -x"*\cv.pdf" ^
