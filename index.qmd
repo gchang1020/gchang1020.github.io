@@ -8,7 +8,7 @@ toc: false
 <div class="profile-hero">
   <div class="profile-photo-wrap">
     <img src="Avatar.png" class="profile-photo"/>
-    <div class="profile-photo-placeholder">GC</div>
+    <!--<div class="profile-photo-placeholder">GC</div>-->
   </div>
   <div class="profile-text">
     <h1 class="profile-name">Gary Chang</h1>
