@@ -7,7 +7,7 @@
 7. quarto preview
 8. afterrendering.bat [photo]
 9. git add .
-10. git comment -m "Update website content"
+10. git commit -m "Update website content"
 11. ssh git@github.com (youstem)
 12. git push
 13. backup_website.bat
