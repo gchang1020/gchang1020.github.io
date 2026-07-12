@@ -5,7 +5,7 @@
 5. update .qmd, images, etc
 6. quarto render
 7. quarto preview
-8. afterrendering.bat [photo]
+8. afterrendering.bat (photo and cv.pdf)
 9. git add .
 10. git commit -m "Update website content"
 11. ssh git@github.com (youstem)
