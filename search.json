@@ -18,7 +18,7 @@
     "href": "teaching.html#courses-taught",
     "title": "Teaching",
     "section": "Courses Taught",
-    "text": "Courses Taught\n\n\n\n\n\n\n\n\nTitle\nLevel\nSchool\n\n\n\n\nPolitical Economy\nUndergraduate\nUniversity of Texas at Dallas\n\n\nAmerican National Government\nUndergraduate\nUniversity of Texas at Dallas\n\n\nState and Local Government\nUndergraduate\nUniversity of Texas at Dallas\n\n\nResearch Design I\nUndergraduate\nUniversity of Texas at Dallas\n\n\nGeographic Information Systems Fundamentals\nUndergraduate\nUniversity of Texas at Dallas\n\n\nPython Programming for Social Science\nGraduate\nUniversity of Texas at Dallas\n\n\nCivil War and Conflict Resolution\nUndergraduate\nUniversity of Texas at Dallas\n\n\nInternational Relations\nUndergraduate\nUniversity of Texas at Dallas\n\n\nFinancial Institutions and Simulation\nUndergraduate\nNorthwood University (China)\n\n\nReal Estate Finance & Analysis\nUndergraduate\nNorthwood University (China)\n\n\nTeam Skills\nGraduate\nPeking University"
+    "text": "Courses Taught\n\n\n\n\n\n\n\n\nTitle\nLevel\nSchool\n\n\n\n\nPolitical Economy\nUndergraduate\nUniversity of Texas at Dallas\n\n\nAmerican National Government\nUndergraduate\nUniversity of Texas at Dallas\n\n\nState and Local Government\nUndergraduate\nUniversity of Texas at Dallas\n\n\nResearch Design I\nUndergraduate\nUniversity of Texas at Dallas\n\n\nFinancial Institutions and Simulation\nUndergraduate\nNorthwood University (China)\n\n\nReal Estate Finance & Analysis\nUndergraduate\nNorthwood University (China)\n\n\nTeam Skills\nGraduate\nPeking University"
   },
   {
     "objectID": "index.html",
@@ -75,13 +75,6 @@
     "title": "Awards & Academic Certifications",
     "section": "ESRI Certificates",
     "text": "ESRI Certificates\n\nDeep Learning Using ArcGIS Pro\nIntegrating R Scripts into ArcGIS Geoprocessing Tools\nMapping Clusters: Hot Spot and Cluster and Outlier Analysis\nMapping Clusters: Optimized Hot Spot and Optimized Outlier Analysis\nMapping Clusters: Introduction to Statistical Cluster Analysis\nRegression Analysis: Building a Regression Model Using ArcGIS Pro\nRegression Analysis: Performing Random Forest Regression Using ArcGIS Pro\nSpatial Data Science: The New Frontier in Analytics\nSuitability Modeling: Creating a Weighted Suitability Model\nSuitability Modeling: Creating a Simple Suitability Model\nUsing the R-ArcGIS Bridge"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   },
   {
     "objectID": "cv.html",

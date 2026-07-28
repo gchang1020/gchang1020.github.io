@@ -12,3 +12,11 @@
 12. git push
 13. backup_website.bat
 
+---
+
+classes taught:
+| Geographic Information Systems Fundamentals | Undergraduate | University of Texas at Dallas |
+| Python Programming for Social Science | **Graduate** | University of Texas at Dallas |
+| Civil War and Conflict Resolution | Undergraduate | University of Texas at Dallas |
+| International Relations | Undergraduate | University of Texas at Dallas |
+| Financial Institutions and Simulation | Undergraduate | Northwood University (China) |
