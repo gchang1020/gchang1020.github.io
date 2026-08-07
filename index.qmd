@@ -53,6 +53,8 @@ M.B.A.
 
 - Statistical Methods: Bayesian/INLA · Survival Analysis · Causal Inference (DID, RDD, PSM, 2SLS) · OLS/GLM/GLMM · PCA/FA/Ridge/Lasso
 
+- Network Analysis: ERGM · QAP
+
 - Databases & Systems: MySQL · PostgreSQL · MongoDB · Data Modeling · CRM/SFA/ERP · System Integration
 
 - Analytics: Data Engineering · Tableau · Power BI
