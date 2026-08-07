@@ -14,7 +14,7 @@
 
 ---
 
-classes taught:
+additional classes taught:
 | Geographic Information Systems Fundamentals | Undergraduate | University of Texas at Dallas |
 | Python Programming for Social Science | **Graduate** | University of Texas at Dallas |
 | Civil War and Conflict Resolution | Undergraduate | University of Texas at Dallas |
