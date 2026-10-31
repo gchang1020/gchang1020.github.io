@@ -1,5 +1,7 @@
 @echo off
 
+set myCV=res-academia-full-candidate.pdf
+
 :: update avatar.png in index.html
 echo.Update Avatar.png ...
 set HTML=d:\workspace\gchang1020.github.io\index.html
@@ -19,8 +21,9 @@ REM sed -e "s#...#...<br>#g" "%HTML%" > "%HTML%.tmp"
 REM move /Y "%HTML%.tmp" "%HTML%"
 
 :: copy cv.pdf
-echo.Update CV.pdf ...
-copy /Y "D:\Gary\DmGc\Jobs\res-utd-Industry.pdf" "d:\workspace\gchang1020.github.io\cv.pdf"
+echo.
+echo.Update CV.pdf ... by '%myCV%'
+copy /Y "D:\Gary\DmGc\Jobs\%myCV%" "d:\workspace\gchang1020.github.io\cv.pdf"
 
 echo.Done!
 

@@ -25,8 +25,28 @@ A fifth strand of my agenda turns the same toolkit inward, asking how China's ec
 ### Projects and Papers ###
 
 <details>
+<summary><strong>Flight Dispatcher Annual Planning: Optimizing a Year of Dispatcher Bidlines with Mixed-Integer Programming</strong></summary>
+*Working Paper · Nov, 2026*
+
+Team Project (Second Flight) — American Airlines OR&AA COMPASS Challenge · 2026
+
+American Airlines builds a year-long work schedule, or “bidline,” for each flight dispatcher across 8 work centers and 3 shifts (24 planning blocks over 363 days). Every bidline follows a fixed 4-3-4-4 cycle (4 days on, 3 off, 4 on, 4 off) that can start on any of 15 offsets. AA’s goals, in strict priority, are to leave no desk unstaffed, use as few bidlines as possible, and minimize surplus staffing. Our team (Gary Chang, Minh Dao, Sadman Shafiq; advisor Prof. Dohyeong Kim) formulated this as a lexicographic mixed-integer linear program (MILP), solving each block in three locked stages so that a lower goal never trades against a higher one.
+
+In Phase 1, we built AA’s 4-day flex process (turning up to 4 off days per bidline into working days) directly into bidline generation. The proven-optimal plan needs 455 bidlines instead of 494 (−7.9%) and halves surplus staffing, from 12,694 to 6,302 desk-days, with zero shortage. Sensitivity studies covered shortage tolerance, demand safety margins, caps on consecutive working days, and solver time and optimality gap.
+
+In Phase 2, vacation, training, and secondary qualifications take dispatchers off the desk. The plan must place 27 ± 2 vacationers per day company-wide (fewer on busy days, more on quiet ones, ranked by daily volume), keep each dispatcher’s vacation within one day of the average, and respect a regulatory limit of 12 training seats per shift per day across all work centers, with each qualification trained only in its designated months. Because these two company-wide limits couple the 24 blocks, we split them across blocks in proportion to block size and training need, then iterated the split against the resulting bidline counts until the plan settled. A second MILP assigns each individual bidline its vacation and training days. The result is 526 bidlines (+71 over Phase 1) with 100% coverage, and vacation shared far more evenly than in AA’s historical data (18–19 days per dispatcher, sd 0.48, vs. 11–36, sd 3.0). The answer is the same under Xpress and CBC and at 60s or 600s time limits; it moves only with the daily vacation count (about 2 bidlines per extra vacationer per day).
+
+The full Phase 2 pipeline runs on an HPC cluster with Slurm (24 blocks in parallel) and is packaged as a Nextmv decision app that takes AA’s desk-demand data and returns the 8 output files in AA’s data specification, validated by 29 automated checks.
+
+**Methods:** Mixed-Integer Linear Programming (MILP) · Lexicographic (Strict-Priority) Multi-Objective Optimization · Iterative Decomposition · Sensitivity Analysis · FICO Xpress · CBC/PuLP · Nextmv · Slurm/HPC · Snowflake
+
+**Data:** American Airlines desk-needs, daily volume, bidline supply, vacation, and training reference data (2025–2026)
+
+---
+
+<details>
 <summary><strong>Mitigating Flight Sequence Risk through Spatial-Temporal Modeling and Optimization</strong></summary>
-*Top-7 Finalist Research Paper — American Airlines / UTD Challenge · 2026*
+*Top-7 Finalist Research Paper — American Airlines / UTD Challenge · Mar, 2026*
 
 Developed an end-to-end predictive and optimization framework to identify and minimize airline misconnection risk within hub-and-spoke networks using American Airlines operations at Dallas/Fort Worth (DFW). Constructed a large-scale spatial-temporal dataset of over 7 million inbound–outbound flight connection pairs from Bureau of Transportation Statistics (BTS) records (2010–2019), enriched with operational, scheduling, weather, and network-congestion variables.
 
@@ -43,7 +63,7 @@ Integrated machine learning risk scores into a combinatorial optimization pipeli
 
 <details>
 <summary><strong>Geospatial Sentiment Analysis of the 2022 Qatar World Cup on Twitter</strong></summary>
-*Working Paper · 2026*
+*Working Paper · Aug, 2026*
 
 How did global sentiment toward the 2022 Qatar FIFA World Cup vary not just over time but across the political and cultural fault lines the tournament itself surfaced? This project replicates the sentiment methodology of Hassan and Wang (2024, *International Review for the Sociology of Sport*), who tracked Twitter sentiment shifting from early skepticism toward the host nation to growing engagement with the football, and extends it along two axes the original study could not pursue: geocoding tweets to countries and political blocs to make sentiment spatially, not just temporally, legible, and analyzing an expanded corpus that retains all languages and retweets rather than the English-only, non-retweet subset the original authors were restricted to.
 
@@ -115,7 +135,7 @@ Together, these findings point to a hybrid transformation: technocratic credenti
 
 <details>
 <summary><strong>Bayesian Spatiotemporal Modeling of Renal Disease Mortality Across Texas Counties, 2010–2019</strong></summary>
-*Master's Thesis Paper · 2025*
+*Master's Thesis Paper · Dec, 2025*
 
 Where in Texas do people die of kidney disease at elevated rates, and why do those places persist as high-risk even after accounting for income, education, race, and access to care? This paper examines county-level chronic kidney disease mortality across all 254 Texas counties over a ten-year panel, using a suite of eight competing Bayesian hierarchical models to evaluate how different spatial and temporal specifications shape inference about mortality disparities. The central methodological question, which combination of spatial prior and temporal structure best represents underlying patterns, drives a systematic comparison that has not previously been applied to county-level ESRD mortality in Texas.
 
@@ -134,7 +154,7 @@ The most important methodological contribution is demonstrating that model speci
 
 <details>
 <summary><strong>System Justification in a Non-Democracy: Evidence from China</strong></summary>
-*Field Research Paper · 2024*
+*Field Research Paper · Aug, 2024*
 
 Do the powerless in Chinese society legitimize the existing political order the way marginalized groups do in democracies? This paper tests van der Toorn et al.'s finding that powerless individuals perceive governmental authority as more legitimate, asking whether that dynamic holds in China, a structurally distinct, non-democratic context. Using data from the Chinese General Social Survey (CGSS-2015), with CGSS-2021 as a robustness check, the study regresses attitudes toward government restrictions on migration and speech on political affiliation, residential status, coastal location, ethnicity, education, and a constructed privilege index.
 
@@ -149,7 +169,7 @@ The baseline results contradict system justification theory: politically privile
 
 <details>
 <summary><strong>The Price of Being Right: Why Moral Superiority Can't Win Global Power</strong></summary>
-*Working Paper · 2025*
+*Working Paper · Nov, 2025*
 
 Liberal democracies have long mistaken moral restraint for strategic strength. This paper argues that forty years of engagement policy empowered authoritarian competitors by granting them trade access, capital, and technology while expecting political liberalization in return, a miscalculation that produced strategic dependency rather than convergence. Drawing on realist IR theory and comparative politics, the paper identifies a fundamental asymmetry: democracies are norm-bound and procedurally constrained while authoritarian rivals are result-oriented and unconstrained. The paper calls for democracies to rediscover strategic realism, reclaiming industrial capacity, forging alliances of production, and developing bounded mechanisms of collective mobilization, without abandoning the liberal principles that define them.
 
@@ -161,7 +181,7 @@ Liberal democracies have long mistaken moral restraint for strategic strength. T
 
 <details>
 <summary><strong>Autocratic Survival Beyond Institutions: History, Culture, and Propaganda</strong></summary>
-*Working Paper · 2025*
+*Working Paper · Nov, 2025*
 
 Why do some authoritarian regimes endure for decades while others collapse? This paper critically engages Gandhi and Przeworski's influential institutionalist account, which holds that legislatures and parties stabilize dictatorships by structuring elite bargains, and argues that formal institutions cannot explain durability on their own. Drawing on case studies of China, the Soviet Union, and North Korea alongside scholarship by Perry, Fitzpatrick, and Wedeen, the paper shows that authoritarian resilience depends on three additional pillars: revolutionary historical narratives that generate legitimacy, cultural traditions of hierarchy and obedience (particularly Confucian filial piety in the Chinese case), and propaganda systems that function not as mere messaging but as institutionalized discipline saturating everyday life. A synthetic framework integrating all four dimensions is proposed.
 
@@ -173,7 +193,7 @@ Why do some authoritarian regimes endure for decades while others collapse? This
 
 <details>
 <summary><strong>Detecting Objects in Drone Photos with YOLO, Roboflow, and Label-Studio</strong></summary>
-*Term Research Paper · 2025*
+*Term Research Paper · May, 2025*
 
 How can a practitioner systematically manage the messy, multi-step workflow of a drone-based object detection project without losing track of files, formats, and experimental parameters across platforms? This project develops PyYolo, a Python CLI tool designed to integrate labeling platforms (Roboflow, Label-Studio), model training, and inference into a single, reproducible pipeline, then applies it to detecting pre-fabricated tube structures at a construction site from aerial drone imagery.
 
@@ -192,7 +212,7 @@ The project reframes drone-based object detection as a data management problem a
 
 <details>
 <summary><strong>Damage Assessment of Wenchang Space Center after Typhoon Yagi</strong></summary>
-*Term Research Project · 2024*
+*Term Research Project · Nov, 2024*
 
 How much did Typhoon Yagi damage China's Wenchang Space Launch Site? This project uses pre- and post-typhoon satellite imagery to detect and quantify vegetation loss at the facility following Yagi's landfall on Hainan Island around August 30, 2024, one of the strongest typhoons to hit the island in recent memory, with peak winds of 145 mph and a death toll of 46.
 
@@ -211,7 +231,7 @@ The project demonstrates that open-access satellite data combined with Python-ba
 
 <details>
 <summary><strong>Finding Preferable Locations to Build Hybrid Renewable Energy Systems in Tanzania</strong></summary>
-*Term Research Project · 2023*
+*Term Research Project · Aug, 2023*
 
 Where in Tanzania should hybrid solar-wind energy plants be built? This project applies GIS-based Suitability Modeling to identify viable sites for hybrid renewable energy systems in Tanzania, a country where over 85% of the population still relies on traditional fuels and rural electrification remains below 17%. Because solar and wind resources are complementary by nature (solar peaks during the day, wind at night), hybrid systems offer more stable output than either source alone and lower total investment costs, making them especially well-suited to Tanzania's energy access challenges.
 
