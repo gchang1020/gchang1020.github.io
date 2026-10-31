@@ -82,7 +82,7 @@ Because free-text geocoding still leaves a substantial share of tweets unattribu
 
 <details>
 <summary><strong>Geography of Power: Spatial Pathways to the CCP Central Committee</strong></summary>
-*Dissertation Paper · 2026*
+*Dissertation Paper · Nov, 2026*
 
 Why do some places consistently produce more political elites than others? This paper examines the geographic origins of CCP Central Committee members across the 16th through 20th Party Congresses (2002–2022), using county-level administrative data for over 2,800 units across China. Combining generalized linear models with Bayesian spatiotemporal models estimated via Integrated Nested Laplace Approximation (INLA), the study tests whether elite production reflects local spatial spillovers, structural accessibility, or historically embedded institutional advantage.
 
@@ -99,7 +99,7 @@ The most striking finding is temporal: an autoregressive spatiotemporal specific
 
 <details>
 <summary><strong>Who Survives? Elite Retention and the Mechanisms of Durability in the CCP Central Committee</strong></summary>
-*Dissertation Paper · 2026*
+*Dissertation Paper · Nov, 2026*
 
 While most research on Chinese elite politics asks who enters or rises within the CCP, this paper asks a distinct question: once officials reach the Central Committee, who stays? Drawing on a comprehensive panel of individual career histories across the 16th through 20th Party Congresses, the study examines the institutional, relational, career, and geographic mechanisms that determine whether a Central Committee member survives into the next congressional session.
 
@@ -116,7 +116,7 @@ Three estimators are combined for robustness: logistic regression models estimat
 
 <details>
 <summary><strong>Who Advances? Elite Selection and the Transformation of CCP Promotion Logic</strong></summary>
-*Dissertation Paper · 2026*
+*Dissertation Paper · Nov, 2026*
 
 This paper investigates what determines promotion from the Central Committee to the Politburo, with particular attention to whether the criteria governing that transition changed after the 18th Party Congress. The central argument is that institutionalized factional balance, which structured elite advancement during the Hu Jintao era, has been progressively displaced by leader-centered selection under Xi Jinping, with Communist Youth League (CYL) network affiliation transforming from an asset into a liability.
 
