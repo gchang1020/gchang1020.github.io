@@ -55,6 +55,8 @@ M.B.A.
 
 - Network Analysis: ERGM · QAP
 
+- Optimization: mixed-integer linear programming (MILP), lexicographic multi-objective optimization, FICO Xpress, CBC/PuLP, Google OR-Tools, Nextmv
+
 - Databases & Systems: MySQL · PostgreSQL · MongoDB · Data Modeling · CRM/SFA/ERP · System Integration
 
 - Analytics: Data Engineering · Tableau · Power BI
