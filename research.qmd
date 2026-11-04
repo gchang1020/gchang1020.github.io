@@ -1,9 +1,13 @@
 ---
 title: "Research Agenda"
 toc: true
+toc-depth: 3
+toc-expand: 1
 ---
 
 My research agenda sits at the intersection of comparative authoritarianism, Indo-Pacific geopolitics, and computational social science. I pursue questions about how authoritarian regimes sustain power, how states in Asia navigate great-power competition, and how spatial and statistical methods can reveal political structures that conventional approaches cannot see. The work below represents both active projects and the directions I plan to pursue after my dissertation.
+
+## Research Agenda
 
 ### Computational Social Science and Geospatial Methods ###
 My research agenda is organized around a set of computational, geospatial, and statistical methods, including Bayesian spatial modeling, causal inference, survival analysis, remote sensing, and LLM-assisted data construction, that I apply to public policy problems wherever institutional data is incomplete, adversarially concealed, or simply not built for the questions being asked. Authoritarian regimes, and Chinese elite politics in particular, are my primary substantive testing ground because they present an extreme version of a problem common across policy domains: the actors of interest actively obscure the data researchers need. The methods I build to solve that problem, however, are domain-general. Two priorities anchor this agenda going forward. First, I plan to write a methods paper formalizing the Bayesian INLA workflow for political science and public policy panel data, offering practical guidance on spatial prior selection, model comparison, and the interpretation of spatially structured random effects for scholars working with nested or geographically clustered data. Second, I intend to extend my geospatial toolkit, including remote sensing, historical GIS, and spatial econometrics, into policy questions where geography is theoretically central, such as how historical infrastructure shapes political access and how satellite imagery can document state behavior in closed or sensitive locations, while formalizing my LLM-assisted biographical data pipeline into a shareable toolkit for constructing structured data on elites and institutions in closed or low-transparency systems more broadly.
@@ -22,11 +26,14 @@ A fourth strand of my agenda turns the same toolkit inward, asking how China's e
 
 ---
 
-### Projects and Papers ###
+## Projects and Papers
+
+### Flight Dispatcher Annual Planning: Optimizing a Year of Dispatcher Bidlines with Mixed-Integer Programming
+
+*Working Paper · Nov, 2026*
 
 <details>
-<summary><strong>Flight Dispatcher Annual Planning: Optimizing a Year of Dispatcher Bidlines with Mixed-Integer Programming</strong></summary>
-*Working Paper · Nov, 2026*
+<summary>Abstract, methods & data</summary>
 
 Team Project (Second Flight) — American Airlines OR&AA COMPASS Challenge · 2026
 
@@ -45,9 +52,12 @@ The full Phase 2 pipeline runs on an HPC cluster with Slurm (24 blocks in parall
 
 ---
 
-<details>
-<summary><strong>Mitigating Flight Sequence Risk through Spatial-Temporal Modeling and Optimization</strong></summary>
+### Mitigating Flight Sequence Risk through Spatial-Temporal Modeling and Optimization
+
 *Top-7 Finalist Research Paper — American Airlines / UTD Challenge · Mar, 2026*
+
+<details>
+<summary>Abstract, methods & data</summary>
 
 Developed an end-to-end predictive and optimization framework to identify and minimize airline misconnection risk within hub-and-spoke networks using American Airlines operations at Dallas/Fort Worth (DFW). Constructed a large-scale spatial-temporal dataset of over 7 million inbound–outbound flight connection pairs from Bureau of Transportation Statistics (BTS) records (2010–2019), enriched with operational, scheduling, weather, and network-congestion variables.
 
@@ -62,9 +72,12 @@ Integrated machine learning risk scores into a combinatorial optimization pipeli
 
 ---
 
-<details>
-<summary><strong>Geospatial Sentiment Analysis of the 2022 Qatar World Cup on Twitter</strong></summary>
+### Geospatial Sentiment Analysis of the 2022 Qatar World Cup on Twitter
+
 *Working Paper · Aug, 2026*
+
+<details>
+<summary>Abstract, methods & data</summary>
 
 How did global sentiment toward the 2022 Qatar FIFA World Cup vary not just over time but across the political and cultural fault lines the tournament itself surfaced? This project replicates the sentiment methodology of Hassan and Wang (2024, *International Review for the Sociology of Sport*), who tracked Twitter sentiment shifting from early skepticism toward the host nation to growing engagement with the football, and extends it along two axes the original study could not pursue: geocoding tweets to countries and political blocs to make sentiment spatially, not just temporally, legible, and analyzing an expanded corpus that retains all languages and retweets rather than the English-only, non-retweet subset the original authors were restricted to.
 
@@ -81,9 +94,12 @@ Because free-text geocoding still leaves a substantial share of tweets unattribu
 
 ---
 
-<details>
-<summary><strong>Geography of Power: Spatial Pathways to the CCP Central Committee</strong></summary>
+### Geography of Power: Spatial Pathways to the CCP Central Committee
+
 *Dissertation Paper · Nov, 2026*
+
+<details>
+<summary>Abstract, methods & data</summary>
 
 Why do some places consistently produce more political elites than others? This paper examines the geographic origins of CCP Central Committee members across the 16th through 20th Party Congresses (2002–2022), using county-level administrative data for over 2,800 units across China. Combining generalized linear models with Bayesian spatiotemporal models estimated via Integrated Nested Laplace Approximation (INLA), the study tests whether elite production reflects local spatial spillovers, structural accessibility, or historically embedded institutional advantage.
 
@@ -98,9 +114,12 @@ The most striking finding is temporal: an autoregressive spatiotemporal specific
 
 ---
 
-<details>
-<summary><strong>Who Survives? Elite Retention and the Mechanisms of Durability in the CCP Central Committee</strong></summary>
+### Who Survives? Elite Retention and the Mechanisms of Durability in the CCP Central Committee
+
 *Dissertation Paper · Nov, 2026*
+
+<details>
+<summary>Abstract, methods & data</summary>
 
 While most research on Chinese elite politics asks who enters or rises within the CCP, this paper asks a distinct question: once officials reach the Central Committee, who stays? Drawing on a comprehensive panel of individual career histories across the 16th through 20th Party Congresses, the study examines the institutional, relational, career, and geographic mechanisms that determine whether a Central Committee member survives into the next congressional session.
 
@@ -115,9 +134,12 @@ Three estimators are combined for robustness: logistic regression models estimat
 
 ---
 
-<details>
-<summary><strong>Who Advances? Elite Selection and the Transformation of CCP Promotion Logic</strong></summary>
+### Who Advances? Elite Selection and the Transformation of CCP Promotion Logic
+
 *Dissertation Paper · Nov, 2026*
+
+<details>
+<summary>Abstract, methods & data</summary>
 
 This paper investigates what determines promotion from the Central Committee to the Politburo, with particular attention to whether the criteria governing that transition changed after the 18th Party Congress. The central argument is that institutionalized factional balance, which structured elite advancement during the Hu Jintao era, has been progressively displaced by leader-centered selection under Xi Jinping, with Communist Youth League (CYL) network affiliation transforming from an asset into a liability.
 
@@ -134,9 +156,12 @@ Together, these findings point to a hybrid transformation: technocratic credenti
 
 ---
 
-<details>
-<summary><strong>Bayesian Spatiotemporal Modeling of Renal Disease Mortality Across Texas Counties, 2010–2019</strong></summary>
+### Bayesian Spatiotemporal Modeling of Renal Disease Mortality Across Texas Counties, 2010–2019
+
 *Master's Thesis Paper · Dec, 2025*
+
+<details>
+<summary>Abstract, methods & data</summary>
 
 Where in Texas do people die of kidney disease at elevated rates, and why do those places persist as high-risk even after accounting for income, education, race, and access to care? This paper examines county-level chronic kidney disease mortality across all 254 Texas counties over a ten-year panel, using a suite of eight competing Bayesian hierarchical models to evaluate how different spatial and temporal specifications shape inference about mortality disparities. The central methodological question, which combination of spatial prior and temporal structure best represents underlying patterns, drives a systematic comparison that has not previously been applied to county-level ESRD mortality in Texas.
 
@@ -153,9 +178,12 @@ The most important methodological contribution is demonstrating that model speci
 
 ---
 
-<details>
-<summary><strong>System Justification in a Non-Democracy: Evidence from China</strong></summary>
+### System Justification in a Non-Democracy: Evidence from China
+
 *Field Research Paper · Aug, 2024*
+
+<details>
+<summary>Abstract, methods & data</summary>
 
 Do the powerless in Chinese society legitimize the existing political order the way marginalized groups do in democracies? This paper tests van der Toorn et al.'s finding that powerless individuals perceive governmental authority as more legitimate, asking whether that dynamic holds in China, a structurally distinct, non-democratic context. Using data from the Chinese General Social Survey (CGSS-2015), with CGSS-2021 as a robustness check, the study regresses attitudes toward government restrictions on migration and speech on political affiliation, residential status, coastal location, ethnicity, education, and a constructed privilege index.
 
@@ -168,9 +196,12 @@ The baseline results contradict system justification theory: politically privile
 
 ---
 
-<details>
-<summary><strong>The Price of Being Right: Why Moral Superiority Can't Win Global Power</strong></summary>
+### The Price of Being Right: Why Moral Superiority Can't Win Global Power
+
 *Working Paper · Nov, 2025*
+
+<details>
+<summary>Abstract, methods & data</summary>
 
 Liberal democracies have long mistaken moral restraint for strategic strength. This paper argues that forty years of engagement policy empowered authoritarian competitors by granting them trade access, capital, and technology while expecting political liberalization in return, a miscalculation that produced strategic dependency rather than convergence. Drawing on realist IR theory and comparative politics, the paper identifies a fundamental asymmetry: democracies are norm-bound and procedurally constrained while authoritarian rivals are result-oriented and unconstrained. The paper calls for democracies to rediscover strategic realism, reclaiming industrial capacity, forging alliances of production, and developing bounded mechanisms of collective mobilization, without abandoning the liberal principles that define them.
 
@@ -180,9 +211,12 @@ Liberal democracies have long mistaken moral restraint for strategic strength. T
 
 ---
 
-<details>
-<summary><strong>Autocratic Survival Beyond Institutions: History, Culture, and Propaganda</strong></summary>
+### Autocratic Survival Beyond Institutions: History, Culture, and Propaganda
+
 *Working Paper · Nov, 2025*
+
+<details>
+<summary>Abstract, methods & data</summary>
 
 Why do some authoritarian regimes endure for decades while others collapse? This paper critically engages Gandhi and Przeworski's influential institutionalist account, which holds that legislatures and parties stabilize dictatorships by structuring elite bargains, and argues that formal institutions cannot explain durability on their own. Drawing on case studies of China, the Soviet Union, and North Korea alongside scholarship by Perry, Fitzpatrick, and Wedeen, the paper shows that authoritarian resilience depends on three additional pillars: revolutionary historical narratives that generate legitimacy, cultural traditions of hierarchy and obedience (particularly Confucian filial piety in the Chinese case), and propaganda systems that function not as mere messaging but as institutionalized discipline saturating everyday life. A synthetic framework integrating all four dimensions is proposed.
 
@@ -192,9 +226,12 @@ Why do some authoritarian regimes endure for decades while others collapse? This
 
 ---
 
-<details>
-<summary><strong>Detecting Objects in Drone Photos with YOLO, Roboflow, and Label-Studio</strong></summary>
+### Detecting Objects in Drone Photos with YOLO, Roboflow, and Label-Studio
+
 *Term Research Paper · May, 2025*
+
+<details>
+<summary>Abstract, methods & data</summary>
 
 How can a practitioner systematically manage the messy, multi-step workflow of a drone-based object detection project without losing track of files, formats, and experimental parameters across platforms? This project develops PyYolo, a Python CLI tool designed to integrate labeling platforms (Roboflow, Label-Studio), model training, and inference into a single, reproducible pipeline, then applies it to detecting pre-fabricated tube structures at a construction site from aerial drone imagery.
 
@@ -211,9 +248,12 @@ The project reframes drone-based object detection as a data management problem a
 
 ---
 
-<details>
-<summary><strong>Damage Assessment of Wenchang Space Center after Typhoon Yagi</strong></summary>
+### Damage Assessment of Wenchang Space Center after Typhoon Yagi
+
 *Term Research Project · Nov, 2024*
+
+<details>
+<summary>Abstract, methods & data</summary>
 
 How much did Typhoon Yagi damage China's Wenchang Space Launch Site? This project uses pre- and post-typhoon satellite imagery to detect and quantify vegetation loss at the facility following Yagi's landfall near Wenchang, Hainan, on September 6, 2024. Yagi was the strongest typhoon to strike Hainan since Rammasun in 2014, with winds near its center of about 245 km/h (152 mph), and killed at least 844 people across South China and Southeast Asia, four of them in Hainan.
 
@@ -230,9 +270,12 @@ The project demonstrates that open-access satellite data combined with Python-ba
 
 ---
 
-<details>
-<summary><strong>Finding Preferable Locations to Build Hybrid Renewable Energy Systems in Tanzania</strong></summary>
+### Finding Preferable Locations to Build Hybrid Renewable Energy Systems in Tanzania
+
 *Term Research Project · Aug, 2023*
+
+<details>
+<summary>Abstract, methods & data</summary>
 
 Where in Tanzania should hybrid solar-wind energy plants be built? This project applies GIS-based Suitability Modeling to identify viable sites for hybrid renewable energy systems in Tanzania, a country where over 85% of the population still relies on traditional fuels and only about a quarter of rural residents (24.5% as of 2020, per the World Bank) have electricity access. Because solar and wind resources are complementary by nature (solar peaks during the day, wind at night), hybrid systems offer more stable output than either source alone and lower total investment costs, making them especially well-suited to Tanzania's energy access challenges.
 
